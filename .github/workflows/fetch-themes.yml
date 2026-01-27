@@ -1,0 +1,62 @@
+name: Fetch Themes Data
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Manual trigger
+  push:
+    paths:
+      - 'scripts/fetch-themes.ts'
+      - '.github/workflows/fetch-themes.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-themes:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Fetch themes data
+        run: pnpm run fetch-themes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code public/data/themes.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/themes.json
+          git commit -m "chore: Update themes data [skip ci]"
+          git push
+
+      - name: Upload themes data as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: themes-data
+          path: public/data/themes.json
+          retention-days: 7

@@ -38,6 +38,9 @@ A gallery website for browsing, previewing, and discovering [Slidev](https://sli
 # Install dependencies
 pnpm install
 
+# Fetch latest themes data (locally)
+pnpm run fetch-themes
+
 # Start dev server
 pnpm dev
 
@@ -47,6 +50,21 @@ pnpm build
 # Preview production build
 pnpm preview
 ```
+
+### Data Collection
+
+Themes are automatically fetched from npm and GitHub:
+
+- **Automatic**: GitHub Actions runs every 6 hours
+- **Manual**: Run `pnpm run fetch-themes` locally
+- **Static Data**: Saved to `public/data/themes.json`
+- **Fallback**: Live npm API if static data unavailable
+
+The data includes:
+- Package metadata from npm
+- Download statistics
+- Screenshots from GitHub repos
+- Auto-extracted README images
 
 ## Submit Your Theme
 

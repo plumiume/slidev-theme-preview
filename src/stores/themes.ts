@@ -2,6 +2,7 @@ import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import type { SlidevTheme, ThemeFilter, ThemeSortOption } from '@/types/theme'
 import { fetchThemesFromNpm } from '@/api/npm'
+import { loadThemesData } from '@/api/static'
 
 export const useThemesStore = defineStore('themes', () => {
   // State
@@ -73,7 +74,17 @@ export const useThemesStore = defineStore('themes', () => {
     error.value = null
 
     try {
-      themes.value = await fetchThemesFromNpm()
+      // Try static data first
+      const staticData = await loadThemesData()
+      
+      if (staticData && staticData.length > 0) {
+        themes.value = staticData
+        console.log(`✓ Loaded ${staticData.length} themes from static data`)
+      } else {
+        // Fallback to live API
+        console.log('⚠ Static data not available, fetching from npm API...')
+        themes.value = await fetchThemesFromNpm()
+      }
     } catch (e) {
       error.value = e instanceof Error ? e.message : 'Failed to fetch themes'
       console.error('Failed to fetch themes:', e)

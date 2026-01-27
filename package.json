@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "fetch-themes": "tsx scripts/fetch-themes.ts",
+    "fetch-themes:watch": "tsx watch scripts/fetch-themes.ts"
   },
   "dependencies": {
     "@vicons/ionicons5": "^0.13.0",
@@ -19,6 +21,7 @@
     "@types/node": "^24.10.1",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vue/tsconfig": "^0.8.1",
+    "tsx": "^4.21.0",
     "typescript": "~5.9.3",
     "vite": "npm:rolldown-vite@7.2.5",
     "vue-tsc": "^3.1.4"

@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Keep static data
+# public/data/themes.json is committed
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
