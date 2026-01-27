@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, watch, onMounted, onUnmounted } from 'vue'
 import { NCard, NText, NTag, NIcon, NSkeleton, NSpace } from 'naive-ui'
 import { 
   DownloadOutline, 
@@ -9,6 +9,7 @@ import {
   HeartOutline
 } from '@vicons/ionicons5'
 import type { SlidevTheme } from '@/types/theme'
+import { fetchThemeScreenshots } from '@/api/npm'
 
 const props = defineProps<{
   theme: SlidevTheme
@@ -24,6 +25,10 @@ const emit = defineEmits<{
 const isHovered = ref(false)
 const imageLoaded = ref(false)
 const imageError = ref(false)
+const screenshots = ref<string[]>([])
+const currentScreenshotIndex = ref(0)
+const screenshotsLoading = ref(false)
+let slideInterval: ReturnType<typeof setInterval> | null = null
 
 const formattedDownloads = computed(() => {
   const downloads = props.theme.downloads ?? 0
@@ -36,6 +41,67 @@ const cardStyle = computed(() => ({
   '--hover-scale': props.focused ? '1.02' : '1',
   '--shadow-intensity': props.focused ? '0 8px 32px rgba(0, 128, 128, 0.2)' : 'none'
 }))
+
+const currentScreenshot = computed(() => {
+  if (screenshots.value.length === 0) {
+    return props.theme.thumbnailUrl
+  }
+  return screenshots.value[currentScreenshotIndex.value]
+})
+
+const hasMultipleScreenshots = computed(() => screenshots.value.length > 1)
+
+// Fetch screenshots on mount
+onMounted(async () => {
+  if (props.theme.screenshots) {
+    screenshots.value = props.theme.screenshots
+    return
+  }
+
+  // Lazy load screenshots
+  if (props.theme.repositoryUrl && !screenshotsLoading.value) {
+    screenshotsLoading.value = true
+    try {
+      const fetched = await fetchThemeScreenshots(props.theme)
+      if (fetched.length > 0) {
+        screenshots.value = fetched
+      }
+    } catch (e) {
+      console.warn('Failed to load screenshots:', e)
+    } finally {
+      screenshotsLoading.value = false
+    }
+  }
+})
+
+// Start slideshow on hover if multiple screenshots
+watch(isHovered, (hovered) => {
+  if (hovered && hasMultipleScreenshots.value) {
+    startSlideshow()
+  } else {
+    stopSlideshow()
+    currentScreenshotIndex.value = 0
+  }
+})
+
+function startSlideshow() {
+  if (slideInterval) return
+  slideInterval = setInterval(() => {
+    currentScreenshotIndex.value = 
+      (currentScreenshotIndex.value + 1) % screenshots.value.length
+  }, 2000) // Change every 2 seconds
+}
+
+function stopSlideshow() {
+  if (slideInterval) {
+    clearInterval(slideInterval)
+    slideInterval = null
+  }
+}
+
+onUnmounted(() => {
+  stopSlideshow()
+})
 
 function handleMouseEnter() {
   isHovered.value = true
@@ -70,15 +136,16 @@ function handleImageError() {
     <div class="theme-card__thumbnail">
       <NSkeleton v-if="!imageLoaded && !imageError" height="160px" />
       <img 
-        v-if="theme.thumbnailUrl && !imageError"
+        v-if="currentScreenshot && !imageError"
         v-show="imageLoaded"
-        :src="theme.thumbnailUrl" 
+        :src="currentScreenshot" 
         :alt="theme.name"
+        :key="currentScreenshot"
         class="theme-card__image"
         @load="handleImageLoad"
         @error="handleImageError"
       />
-      <div v-if="imageError || !theme.thumbnailUrl" class="theme-card__placeholder">
+      <div v-if="imageError || !currentScreenshot" class="theme-card__placeholder">
         <NText depth="3">{{ theme.name.charAt(0).toUpperCase() }}</NText>
       </div>
       
@@ -91,6 +158,16 @@ function handleImageError() {
       >
         Official
       </NTag>
+
+      <!-- Screenshot indicator -->
+      <div v-if="hasMultipleScreenshots" class="theme-card__screenshot-indicator">
+        <span 
+          v-for="(_, index) in screenshots" 
+          :key="index"
+          class="theme-card__dot"
+          :class="{ 'theme-card__dot--active': index === currentScreenshotIndex }"
+        />
+      </div>
     </div>
 
     <!-- Content -->
@@ -191,7 +268,7 @@ function handleImageError() {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
 .theme-card--hovered .theme-card__image {
@@ -215,6 +292,33 @@ function handleImageError() {
   position: absolute;
   top: 8px;
   right: 8px;
+}
+
+.theme-card__screenshot-indicator {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 6px;
+  padding: 4px 8px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+  backdrop-filter: blur(4px);
+}
+
+.theme-card__dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  transition: all 0.3s ease;
+}
+
+.theme-card__dot--active {
+  background: white;
+  width: 16px;
+  border-radius: 3px;
 }
 
 .theme-card__content {

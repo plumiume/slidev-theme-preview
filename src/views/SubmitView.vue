@@ -72,6 +72,11 @@ function handleSubmit() {
             "keywords": ["slidev-theme", "slidev"]
           </NCard>
         </NStep>
+        <NStep title="Add Screenshots" description="Place screenshots in /screenshots/ folder or configure in package.json (slidev.screenshots).">
+          <NCard size="small" style="font-family: monospace; background: var(--n-color-modal);">
+            screenshots/01.png, 02.png, ...
+          </NCard>
+        </NStep>
         <NStep title="Auto-Discovery" description="Your theme will be automatically discovered! This gallery fetches themes from npm in real-time." />
       </NSteps>
     </NCard>

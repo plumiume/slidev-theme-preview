@@ -3,7 +3,7 @@ import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { 
   NSpace, NButton, NIcon, NText, NSpin, NResult, 
-  NCard, NTag, NStatistic, NDivider
+  NCard, NTag, NStatistic, NDivider, NCarousel
 } from 'naive-ui'
 import { 
   ArrowBackOutline, 
@@ -14,6 +14,7 @@ import {
   CheckmarkOutline
 } from '@vicons/ionicons5'
 import { useThemesStore } from '@/stores/themes'
+import { fetchThemeScreenshots } from '@/api/npm'
 import type { SlidevTheme } from '@/types/theme'
 
 const route = useRoute()
@@ -23,6 +24,8 @@ const themesStore = useThemesStore()
 const theme = ref<SlidevTheme | null>(null)
 const loading = ref(true)
 const copied = ref(false)
+const screenshots = ref<string[]>([])
+const screenshotsLoading = ref(false)
 
 const themeName = computed(() => route.params.themeName as string)
 
@@ -49,9 +52,23 @@ onMounted(async () => {
 
 watch(themeName, loadTheme)
 
-function loadTheme() {
+async function loadTheme() {
   loading.value = true
   theme.value = themesStore.getThemeByName(themeName.value) || null
+  
+  // Fetch screenshots
+  if (theme.value && !screenshotsLoading.value) {
+    screenshotsLoading.value = true
+    try {
+      const fetched = await fetchThemeScreenshots(theme.value)
+      screenshots.value = fetched
+    } catch (e) {
+      console.warn('Failed to load screenshots:', e)
+    } finally {
+      screenshotsLoading.value = false
+    }
+  }
+  
   loading.value = false
 }
 
@@ -205,10 +222,27 @@ function formatDate(dateStr?: string): string {
         </section>
 
         <!-- Preview image -->
-        <section v-if="theme.thumbnailUrl" class="detail-view__section">
+        <section v-if="screenshots.length > 0" class="detail-view__section">
           <h2>Preview</h2>
+          <NSpin v-if="screenshotsLoading" />
+          <NCarousel 
+            v-else-if="screenshots.length > 1"
+            :autoplay="true"
+            :interval="4000"
+            show-arrow
+            class="detail-view__carousel"
+          >
+            <img 
+              v-for="(screenshot, index) in screenshots"
+              :key="index"
+              :src="screenshot" 
+              :alt="`${theme.name} screenshot ${index + 1}`"
+              class="detail-view__preview-image"
+            />
+          </NCarousel>
           <img 
-            :src="theme.thumbnailUrl" 
+            v-else
+            :src="screenshots[0]" 
             :alt="theme.name"
             class="detail-view__preview-image"
           />
@@ -259,6 +293,12 @@ function formatDate(dateStr?: string): string {
 .detail-view__code-card pre {
   margin: 0;
   white-space: pre-wrap;
+}
+
+.detail-view__carousel {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
 }
 
 .detail-view__preview-image {

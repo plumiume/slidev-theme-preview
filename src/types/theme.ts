@@ -19,8 +19,12 @@ export interface SlidevTheme {
   npmUrl?: string
   /** Demo/preview URL */
   demoUrl?: string
-  /** Screenshot/thumbnail URL */
+  /** Screenshot/thumbnail URL (deprecated, use screenshots) */
   thumbnailUrl?: string
+  /** Multiple screenshots for animation */
+  screenshots?: string[]
+  /** Screenshots loading state */
+  screenshotsLoading?: boolean
   /** Weekly download count from npm */
   downloads?: number
   /** License type */

@@ -1,4 +1,5 @@
 import type { SlidevTheme, NpmSearchResult, NpmDownloadsResponse } from '@/types/theme'
+import { fetchGitHubScreenshots, fetchPackageScreenshots } from './github'
 
 const NPM_REGISTRY_API = 'https://registry.npmjs.org'
 const NPM_SEARCH_API = 'https://registry.npmjs.org/-/v1/search'
@@ -98,7 +99,9 @@ export async function fetchThemesFromNpm(): Promise<SlidevTheme[]> {
         repositoryUrl,
         npmUrl: pkg.links.npm || `https://www.npmjs.com/package/${pkg.name}`,
         demoUrl: pkg.links.homepage,
-        thumbnailUrl: generateThumbnailUrl(repositoryUrl, pkg.name),
+        thumbnailUrl: generateThumbnailUrl(repositoryUrl),
+        screenshots: undefined, // Will be fetched lazily
+        screenshotsLoading: false,
         license: undefined, // Would need additional API call
         updatedAt: pkg.date,
         keywords: pkg.keywords,
@@ -165,7 +168,7 @@ function formatThemeName(id: string): string {
 }
 
 /**
- * Fetch single theme details
+ * Fetch theme details
  */
 export async function fetchThemeDetails(packageName: string): Promise<any> {
   const response = await fetch(`${NPM_REGISTRY_API}/${encodeURIComponent(packageName)}`)
@@ -173,4 +176,38 @@ export async function fetchThemeDetails(packageName: string): Promise<any> {
     throw new Error(`Failed to fetch theme details: ${response.statusText}`)
   }
   return response.json()
+}
+
+/**
+ * Fetch screenshots for a single theme
+ */
+export async function fetchThemeScreenshots(theme: SlidevTheme): Promise<string[]> {
+  if (!theme.repositoryUrl) {
+    return theme.thumbnailUrl ? [theme.thumbnailUrl] : []
+  }
+
+  try {
+    // 1. Check package.json for manual configuration
+    const manualScreenshots = await fetchPackageScreenshots(
+      theme.repositoryUrl,
+      theme.packageName
+    )
+    
+    if (manualScreenshots && manualScreenshots.length > 0) {
+      return manualScreenshots
+    }
+
+    // 2. Auto-fetch from GitHub screenshots folder or README
+    const githubScreenshots = await fetchGitHubScreenshots(theme.repositoryUrl)
+    
+    if (githubScreenshots.length > 0) {
+      return githubScreenshots.map(s => s.url)
+    }
+
+    // 3. Fallback to thumbnailUrl
+    return theme.thumbnailUrl ? [theme.thumbnailUrl] : []
+  } catch (error) {
+    console.warn(`Failed to fetch screenshots for ${theme.packageName}:`, error)
+    return theme.thumbnailUrl ? [theme.thumbnailUrl] : []
+  }
 }

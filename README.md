@@ -54,6 +54,51 @@ pnpm preview
 2. **Publish to npm** with keyword `slidev-theme`
 3. Your theme will be automatically discovered! 🎉
 
+### Theme Screenshots
+
+The gallery automatically fetches screenshots from your repository. There are two ways to provide them:
+
+#### Option 1: Automatic Discovery (Recommended)
+
+Place your screenshots in one of these folders:
+- `/screenshots/`
+- `/assets/screenshots/`
+- `/docs/screenshots/`
+- `/.github/screenshots/`
+
+The gallery will automatically detect and display them (supports png, jpg, gif, webp).
+
+**Example structure:**
+```
+your-theme/
+├── screenshots/
+│   ├── 01.png  # Full screen presentation view
+│   ├── 02.png  # Another slide example
+│   └── 03.png
+└── package.json
+```
+
+#### Option 2: Manual Configuration
+
+Add a `slidev.screenshots` field in your `package.json`:
+
+```json
+{
+  "name": "slidev-theme-awesome",
+  "slidev": {
+    "screenshots": [
+      "https://raw.githubusercontent.com/user/repo/main/preview1.png",
+      "https://raw.githubusercontent.com/user/repo/main/preview2.png"
+    ]
+  }
+}
+```
+
+**Tips:**
+- Use full-screen presentation screenshots (1920x1080 recommended)
+- Multiple screenshots will animate on hover
+- Images are automatically extracted from README as fallback
+
 Or [open an issue](https://github.com/plumiume/slidev-theme-preview/issues/new) to submit manually.
 
 ## Contributing
