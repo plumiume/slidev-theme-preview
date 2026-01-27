@@ -6,6 +6,8 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: # Manual trigger
   push:
+    branches:
+      - main  # Only run on main branch
     paths:
       - 'scripts/fetch-themes.ts'
       - '.github/workflows/fetch-themes.yml'
