@@ -19,7 +19,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-02T02:06:09.131Z"
+    "fetchedAt": "2026-02-02T07:01:39.998Z"
   },
   {
     "id": "seriph",
@@ -41,7 +41,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-02T02:06:20.604Z"
+    "fetchedAt": "2026-02-02T07:01:50.982Z"
   },
   {
     "id": "ehl2022",
@@ -66,7 +66,7 @@
       "theme-ehl2022"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:06:31.886Z"
+    "fetchedAt": "2026-02-02T07:02:01.763Z"
   },
   {
     "id": "alchemmist",
@@ -89,7 +89,7 @@
       "alchemmist"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:06:46.344Z"
+    "fetchedAt": "2026-02-02T07:02:15.787Z"
   },
   {
     "id": "apple-basic",
@@ -111,7 +111,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-02T02:07:00.670Z"
+    "fetchedAt": "2026-02-02T07:02:29.742Z"
   },
   {
     "id": "academic",
@@ -137,7 +137,7 @@
       "slidev-theme-academic"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:07:12.013Z"
+    "fetchedAt": "2026-02-02T07:02:40.501Z"
   },
   {
     "id": "nmt",
@@ -145,16 +145,16 @@
     "name": "Nmt",
     "description": "A [Slidev](https://sli.dev/) theme based on the [The unnamed - VS Code theme](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-unnamed-theme) by [Elio Struyf](https://elio.dev).",
     "author": "adygcode",
-    "version": "0.6.4",
+    "version": "0.6.5",
     "npmUrl": "https://www.npmjs.com/package/slidev-theme-nmt",
     "screenshots": [],
-    "updatedAt": "2026-01-25T12:10:37.394Z",
+    "updatedAt": "2026-02-02T04:49:48.674Z",
     "keywords": [
       "slidev-theme",
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:07:26.389Z"
+    "fetchedAt": "2026-02-02T07:02:54.335Z"
   },
   {
     "id": "gtlabo",
@@ -179,7 +179,7 @@
       "vue"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:07:26.389Z"
+    "fetchedAt": "2026-02-02T07:02:54.335Z"
   },
   {
     "id": "neversink",
@@ -201,7 +201,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:07:40.742Z"
+    "fetchedAt": "2026-02-02T07:03:08.346Z"
   },
   {
     "id": "meetup",
@@ -225,7 +225,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:07:55.424Z"
+    "fetchedAt": "2026-02-02T07:03:22.290Z"
   },
   {
     "id": "bricks",
@@ -247,7 +247,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-02T02:08:10.141Z"
+    "fetchedAt": "2026-02-02T07:03:36.340Z"
   },
   {
     "id": "swiss-ai-hub",
@@ -275,7 +275,7 @@
       "dark-theme"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:08:21.487Z"
+    "fetchedAt": "2026-02-02T07:03:47.286Z"
   },
   {
     "id": "scholarly",
@@ -302,7 +302,7 @@
       "latex"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:08:36.086Z"
+    "fetchedAt": "2026-02-02T07:04:01.370Z"
   },
   {
     "id": "@openscript-ch/slidev-theme",
@@ -324,7 +324,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:08:50.493Z"
+    "fetchedAt": "2026-02-02T07:04:15.488Z"
   },
   {
     "id": "geist",
@@ -342,7 +342,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:05.108Z"
+    "fetchedAt": "2026-02-02T07:04:29.716Z"
   },
   {
     "id": "nearform",
@@ -364,7 +364,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:05.108Z"
+    "fetchedAt": "2026-02-02T07:04:29.716Z"
   },
   {
     "id": "shibainu",
@@ -386,7 +386,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-02T02:09:19.642Z"
+    "fetchedAt": "2026-02-02T07:04:43.878Z"
   },
   {
     "id": "sp-days-framework/sykehuspartner",
@@ -408,7 +408,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:30.908Z"
+    "fetchedAt": "2026-02-02T07:04:54.640Z"
   },
   {
     "id": "penguin",
@@ -431,7 +431,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:48.695Z"
+    "fetchedAt": "2026-02-02T07:05:12.032Z"
   },
   {
     "id": "the-unnamed",
@@ -448,7 +448,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:49.527Z"
+    "fetchedAt": "2026-02-02T07:05:12.786Z"
   },
   {
     "id": "fossunited",
@@ -465,7 +465,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:49.527Z"
+    "fetchedAt": "2026-02-02T07:05:12.786Z"
   },
   {
     "id": "frankfurt",
@@ -494,7 +494,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:49.527Z"
+    "fetchedAt": "2026-02-02T07:05:12.786Z"
   },
   {
     "id": "cxphoenix/fhsh-isiphs-universal",
@@ -520,25 +520,7 @@
       "universal"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:09:50.197Z"
-  },
-  {
-    "id": "echmo/robot-pre1",
-    "packageName": "@echmo/slidev-theme-robot-pre1",
-    "name": "Echmo Robot Pre1",
-    "description": "slidev学前机器人课件主题",
-    "author": "echmo",
-    "version": "0.0.4",
-    "repositoryUrl": "https://gitee.com/echmo/slidev-theme-robot-pre1",
-    "npmUrl": "https://www.npmjs.com/package/@echmo/slidev-theme-robot-pre1",
-    "screenshots": [],
-    "updatedAt": "2026-01-17T06:05:16.238Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:04.734Z"
+    "fetchedAt": "2026-02-02T07:05:13.423Z"
   },
   {
     "id": "light-icons",
@@ -564,7 +546,25 @@
       "light-icons"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:05.235Z"
+    "fetchedAt": "2026-02-02T07:05:27.616Z"
+  },
+  {
+    "id": "echmo/robot-pre1",
+    "packageName": "@echmo/slidev-theme-robot-pre1",
+    "name": "Echmo Robot Pre1",
+    "description": "slidev学前机器人课件主题",
+    "author": "echmo",
+    "version": "0.0.4",
+    "repositoryUrl": "https://gitee.com/echmo/slidev-theme-robot-pre1",
+    "npmUrl": "https://www.npmjs.com/package/@echmo/slidev-theme-robot-pre1",
+    "screenshots": [],
+    "updatedAt": "2026-01-17T06:05:16.238Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-02T07:05:41.629Z"
   },
   {
     "id": "leilei-custom1",
@@ -581,7 +581,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:19.892Z"
+    "fetchedAt": "2026-02-02T07:05:42.130Z"
   },
   {
     "id": "dataerai",
@@ -598,7 +598,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:19.892Z"
+    "fetchedAt": "2026-02-02T07:05:42.130Z"
   },
   {
     "id": "purplin",
@@ -622,7 +622,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:19.892Z"
+    "fetchedAt": "2026-02-02T07:05:42.130Z"
   },
   {
     "id": "unicorn",
@@ -663,7 +663,7 @@
       "dawntraoz"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:34.276Z"
+    "fetchedAt": "2026-02-02T07:05:56.135Z"
   },
   {
     "id": "one-purple-unicorn-pro",
@@ -685,7 +685,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:34.965Z"
+    "fetchedAt": "2026-02-02T07:05:56.784Z"
   },
   {
     "id": "gemini",
@@ -707,7 +707,7 @@
       "slidev-theme"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:10:49.601Z"
+    "fetchedAt": "2026-02-02T07:06:10.793Z"
   },
   {
     "id": "wordman",
@@ -724,7 +724,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:11:03.956Z"
+    "fetchedAt": "2026-02-02T07:06:24.777Z"
   },
   {
     "id": "@workshops.de/slidev-theme",
@@ -742,7 +742,7 @@
       "workshops.de"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:11:03.956Z"
+    "fetchedAt": "2026-02-02T07:06:24.777Z"
   },
   {
     "id": "gravitek/gravitek",
@@ -765,7 +765,7 @@
       "gravitek"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:11:03.956Z"
+    "fetchedAt": "2026-02-02T07:06:24.777Z"
   },
   {
     "id": "eloc",
@@ -787,7 +787,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:11:18.534Z"
+    "fetchedAt": "2026-02-02T07:06:38.899Z"
   },
   {
     "id": "watabegg",
@@ -814,7 +814,7 @@
       "teaching"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:11:32.955Z"
+    "fetchedAt": "2026-02-02T07:06:52.835Z"
   },
   {
     "id": "excali-slide",
@@ -838,7 +838,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:11:47.570Z"
+    "fetchedAt": "2026-02-02T07:07:06.795Z"
   },
   {
     "id": "nord",
@@ -862,7 +862,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:01.907Z"
+    "fetchedAt": "2026-02-02T07:07:20.684Z"
   },
   {
     "id": "vuetiful",
@@ -889,7 +889,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:16.279Z"
+    "fetchedAt": "2026-02-02T07:07:34.583Z"
   },
   {
     "id": "academic-schober",
@@ -915,7 +915,7 @@
       "slidev-theme-academic-schober"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:16.948Z"
+    "fetchedAt": "2026-02-02T07:07:35.221Z"
   },
   {
     "id": "hep",
@@ -939,7 +939,7 @@
       "HEP"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:31.531Z"
+    "fetchedAt": "2026-02-02T07:07:49.483Z"
   },
   {
     "id": "exam-prep",
@@ -959,7 +959,7 @@
       "teaching"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:45.933Z"
+    "fetchedAt": "2026-02-02T07:08:03.535Z"
   },
   {
     "id": "ksick-dynatrace",
@@ -976,7 +976,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:45.933Z"
+    "fetchedAt": "2026-02-02T07:08:03.535Z"
   },
   {
     "id": "foamscience",
@@ -993,7 +993,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:45.933Z"
+    "fetchedAt": "2026-02-02T07:08:03.535Z"
   },
   {
     "id": "miracle",
@@ -1019,7 +1019,7 @@
       "slidev-theme-miracle"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:12:45.934Z"
+    "fetchedAt": "2026-02-02T07:08:03.535Z"
   },
   {
     "id": "ktym4a/ktym4a",
@@ -1044,7 +1044,7 @@
       "pastel"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:00.355Z"
+    "fetchedAt": "2026-02-02T07:08:17.900Z"
   },
   {
     "id": "diapositiv",
@@ -1067,7 +1067,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:14.731Z"
+    "fetchedAt": "2026-02-02T07:08:32.028Z"
   },
   {
     "id": "abicom",
@@ -1084,7 +1084,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:29.214Z"
+    "fetchedAt": "2026-02-02T07:08:46.146Z"
   },
   {
     "id": "zhozhoba",
@@ -1107,7 +1107,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:29.214Z"
+    "fetchedAt": "2026-02-02T07:08:46.146Z"
   },
   {
     "id": "mokkapps",
@@ -1124,7 +1124,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:43.688Z"
+    "fetchedAt": "2026-02-02T07:09:00.130Z"
   },
   {
     "id": "iodigital",
@@ -1146,7 +1146,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:43.688Z"
+    "fetchedAt": "2026-02-02T07:09:00.130Z"
   },
   {
     "id": "echmo/aircraft-pre1",
@@ -1164,7 +1164,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:55.040Z"
+    "fetchedAt": "2026-02-02T07:09:11.056Z"
   },
   {
     "id": "ptna",
@@ -1188,7 +1188,7 @@
       "piano"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:13:55.540Z"
+    "fetchedAt": "2026-02-02T07:09:11.557Z"
   },
   {
     "id": "webksde",
@@ -1207,7 +1207,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:10.067Z"
+    "fetchedAt": "2026-02-02T07:09:25.642Z"
   },
   {
     "id": "capgemini",
@@ -1225,7 +1225,7 @@
       "capgemini"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:10.567Z"
+    "fetchedAt": "2026-02-02T07:09:26.143Z"
   },
   {
     "id": "aotoki/terraforming",
@@ -1242,7 +1242,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:10.567Z"
+    "fetchedAt": "2026-02-02T07:09:26.143Z"
   },
   {
     "id": "enolive",
@@ -1266,7 +1266,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:10.567Z"
+    "fetchedAt": "2026-02-02T07:09:26.143Z"
   },
   {
     "id": "dfhi-isfates",
@@ -1290,7 +1290,7 @@
       "isfates"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:25.186Z"
+    "fetchedAt": "2026-02-02T07:09:40.162Z"
   },
   {
     "id": "mudssky/default",
@@ -1307,7 +1307,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:39.667Z"
+    "fetchedAt": "2026-02-02T07:09:54.204Z"
   },
   {
     "id": "ink",
@@ -1324,7 +1324,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:39.667Z"
+    "fetchedAt": "2026-02-02T07:09:54.204Z"
   },
   {
     "id": "echmo/drone1",
@@ -1342,7 +1342,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:39.667Z"
+    "fetchedAt": "2026-02-02T07:09:54.204Z"
   },
   {
     "id": "dualboot",
@@ -1362,7 +1362,7 @@
       "Dualboot Partners"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:40.168Z"
+    "fetchedAt": "2026-02-02T07:09:54.705Z"
   },
   {
     "id": "takahashi",
@@ -1380,7 +1380,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:40.669Z"
+    "fetchedAt": "2026-02-02T07:09:55.206Z"
   },
   {
     "id": "doctolib",
@@ -1398,7 +1398,7 @@
       "doctolib"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:41.170Z"
+    "fetchedAt": "2026-02-02T07:09:55.707Z"
   },
   {
     "id": "neu",
@@ -1415,7 +1415,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:41.170Z"
+    "fetchedAt": "2026-02-02T07:09:55.707Z"
   },
   {
     "id": "hal",
@@ -1432,7 +1432,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:41.170Z"
+    "fetchedAt": "2026-02-02T07:09:55.707Z"
   },
   {
     "id": "ekino/ekino",
@@ -1450,7 +1450,7 @@
       "ekino"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:41.170Z"
+    "fetchedAt": "2026-02-02T07:09:55.707Z"
   },
   {
     "id": "cxphoenix/fhsh-aisp",
@@ -1474,7 +1474,7 @@
       "aisp"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:41.170Z"
+    "fetchedAt": "2026-02-02T07:09:55.707Z"
   },
   {
     "id": "rockdove",
@@ -1491,7 +1491,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:55.655Z"
+    "fetchedAt": "2026-02-02T07:10:09.798Z"
   },
   {
     "id": "bawue",
@@ -1510,7 +1510,7 @@
       "zsl"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:55.655Z"
+    "fetchedAt": "2026-02-02T07:10:09.798Z"
   },
   {
     "id": "sirius-college",
@@ -1532,7 +1532,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:14:55.655Z"
+    "fetchedAt": "2026-02-02T07:10:09.798Z"
   },
   {
     "id": "code-sugar/portrait",
@@ -1554,7 +1554,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:10.046Z"
+    "fetchedAt": "2026-02-02T07:10:23.911Z"
   },
   {
     "id": "teach-rs",
@@ -1574,7 +1574,7 @@
       "Rust 101"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:24.461Z"
+    "fetchedAt": "2026-02-02T07:10:37.928Z"
   },
   {
     "id": "touraine-tech",
@@ -1599,7 +1599,7 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:24.462Z"
+    "fetchedAt": "2026-02-02T07:10:37.928Z"
   },
   {
     "id": "rich",
@@ -1623,7 +1623,7 @@
       "device mockup"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:39.150Z"
+    "fetchedAt": "2026-02-02T07:10:52.006Z"
   },
   {
     "id": "onecraft",
@@ -1642,7 +1642,7 @@
       "onecraft"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:39.150Z"
+    "fetchedAt": "2026-02-02T07:10:52.006Z"
   },
   {
     "id": "flyingstudio",
@@ -1659,7 +1659,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:39.150Z"
+    "fetchedAt": "2026-02-02T07:10:52.006Z"
   },
   {
     "id": "modern-tech",
@@ -1681,7 +1681,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:39.150Z"
+    "fetchedAt": "2026-02-02T07:10:52.006Z"
   },
   {
     "id": "tum-unofficial",
@@ -1703,7 +1703,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:15:55.840Z"
+    "fetchedAt": "2026-02-02T07:11:07.636Z"
   },
   {
     "id": "improving-25",
@@ -1729,7 +1729,7 @@
       "slides"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:16:10.286Z"
+    "fetchedAt": "2026-02-02T07:11:21.559Z"
   },
   {
     "id": "kalouk",
@@ -1751,7 +1751,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:16:24.925Z"
+    "fetchedAt": "2026-02-02T07:11:35.515Z"
   },
   {
     "id": "@mehl/husbanken-slidev-theme",
@@ -1773,7 +1773,26 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:16:39.373Z"
+    "fetchedAt": "2026-02-02T07:11:49.461Z"
+  },
+  {
+    "id": "inloopstudio/inloopstudio",
+    "packageName": "@inloopstudio/slidev-theme-inloopstudio",
+    "name": "Inloopstudio Inloopstudio",
+    "description": "Brand‑accurate Slidev theme for Inloop Studio (fonts, colors, logo, backgrounds), using a clear README structure similar to neversink.",
+    "author": "huydtt",
+    "version": "0.1.1",
+    "npmUrl": "https://www.npmjs.com/package/@inloopstudio/slidev-theme-inloopstudio",
+    "screenshots": [],
+    "updatedAt": "2025-11-17T05:38:17.021Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev",
+      "inloop",
+      "brand"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-02T07:12:03.450Z"
   },
   {
     "id": "ycs77",
@@ -1790,7 +1809,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:16:53.679Z"
+    "fetchedAt": "2026-02-02T07:12:03.450Z"
   },
   {
     "id": "zero-slide",
@@ -1807,7 +1826,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:16:53.679Z"
+    "fetchedAt": "2026-02-02T07:12:03.450Z"
   },
   {
     "id": "smile",
@@ -1831,7 +1850,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:16:53.679Z"
+    "fetchedAt": "2026-02-02T07:12:03.450Z"
   },
   {
     "id": "ventus",
@@ -1850,7 +1869,7 @@
       "slidev-theme-ventus"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:08.227Z"
+    "fetchedAt": "2026-02-02T07:12:17.457Z"
   },
   {
     "id": "nxyz",
@@ -1875,7 +1894,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:08.227Z"
+    "fetchedAt": "2026-02-02T07:12:17.457Z"
   },
   {
     "id": "ucas",
@@ -1892,7 +1911,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:22.735Z"
+    "fetchedAt": "2026-02-02T07:12:31.484Z"
   },
   {
     "id": "neo",
@@ -1909,7 +1928,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:22.735Z"
+    "fetchedAt": "2026-02-02T07:12:31.484Z"
   },
   {
     "id": "mint",
@@ -1931,7 +1950,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:22.735Z"
+    "fetchedAt": "2026-02-02T07:12:31.484Z"
   },
   {
     "id": "ninja",
@@ -1949,7 +1968,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:37.185Z"
+    "fetchedAt": "2026-02-02T07:12:45.498Z"
   },
   {
     "id": "@createiq/slidev-theme",
@@ -1985,26 +2004,7 @@
       "createiq"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:37.185Z"
-  },
-  {
-    "id": "inloopstudio/inloopstudio",
-    "packageName": "@inloopstudio/slidev-theme-inloopstudio",
-    "name": "Inloopstudio Inloopstudio",
-    "description": "Brand‑accurate Slidev theme for Inloop Studio (fonts, colors, logo, backgrounds), using a clear README structure similar to neversink.",
-    "author": "huydtt",
-    "version": "0.1.1",
-    "npmUrl": "https://www.npmjs.com/package/@inloopstudio/slidev-theme-inloopstudio",
-    "screenshots": [],
-    "updatedAt": "2025-11-17T05:38:17.021Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev",
-      "inloop",
-      "brand"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:37.868Z"
+    "fetchedAt": "2026-02-02T07:12:45.498Z"
   },
   {
     "id": "penguin-ht",
@@ -2026,7 +2026,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:37.868Z"
+    "fetchedAt": "2026-02-02T07:12:46.139Z"
   },
   {
     "id": "linkedin-carousel",
@@ -2044,7 +2044,7 @@
       "linkedin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:55.517Z"
+    "fetchedAt": "2026-02-02T07:13:03.386Z"
   },
   {
     "id": "webksde/webksde",
@@ -2063,7 +2063,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:55.517Z"
+    "fetchedAt": "2026-02-02T07:13:03.386Z"
   },
   {
     "id": "reveal",
@@ -2080,7 +2080,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:56.017Z"
+    "fetchedAt": "2026-02-02T07:13:03.887Z"
   },
   {
     "id": "spezi",
@@ -2097,7 +2097,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:56.017Z"
+    "fetchedAt": "2026-02-02T07:13:03.887Z"
   },
   {
     "id": "antfu-vite-conf-2023",
@@ -2120,7 +2120,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:17:56.017Z"
+    "fetchedAt": "2026-02-02T07:13:03.887Z"
   },
   {
     "id": "coston",
@@ -2147,7 +2147,7 @@
       "backgrounds"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:10.614Z"
+    "fetchedAt": "2026-02-02T07:13:18.010Z"
   },
   {
     "id": "atc",
@@ -2164,7 +2164,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:28.138Z"
+    "fetchedAt": "2026-02-02T07:13:35.056Z"
   },
   {
     "id": "zlict/zli",
@@ -2186,7 +2186,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:28.139Z"
+    "fetchedAt": "2026-02-02T07:13:35.056Z"
   },
   {
     "id": "storyblok",
@@ -2203,7 +2203,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:42.932Z"
+    "fetchedAt": "2026-02-02T07:13:49.349Z"
   },
   {
     "id": "ppt",
@@ -2220,7 +2220,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:42.932Z"
+    "fetchedAt": "2026-02-02T07:13:49.349Z"
+  },
+  {
+    "id": "@slidex/theme-default",
+    "packageName": "@slidex/theme-default",
+    "name": "@slidex Theme Default",
+    "description": "[![NPM version](https://img.shields.io/npm/v/@slidex/theme-default?color=3AB9D4&label=)](https://www.npmjs.com/package/@slidex/theme-default)",
+    "author": "zhaodonghao586",
+    "version": "0.1.2",
+    "npmUrl": "https://www.npmjs.com/package/@slidex/theme-default",
+    "screenshots": [],
+    "updatedAt": "2023-02-05T01:34:51.866Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-02T07:13:49.349Z"
   },
   {
     "id": "dasheng",
@@ -2249,24 +2266,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:42.932Z"
-  },
-  {
-    "id": "@slidex/theme-default",
-    "packageName": "@slidex/theme-default",
-    "name": "@slidex Theme Default",
-    "description": "[![NPM version](https://img.shields.io/npm/v/@slidex/theme-default?color=3AB9D4&label=)](https://www.npmjs.com/package/@slidex/theme-default)",
-    "author": "zhaodonghao586",
-    "version": "0.1.2",
-    "npmUrl": "https://www.npmjs.com/package/@slidex/theme-default",
-    "screenshots": [],
-    "updatedAt": "2023-02-05T01:34:51.866Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:43.592Z"
+    "fetchedAt": "2026-02-02T07:13:49.350Z"
   },
   {
     "id": "majin",
@@ -2297,7 +2297,7 @@
       "cards"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:43.592Z"
+    "fetchedAt": "2026-02-02T07:13:49.974Z"
   },
   {
     "id": "@mehlium/husbanken-slidev-theme",
@@ -2319,7 +2319,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:18:58.214Z"
+    "fetchedAt": "2026-02-02T07:14:04.089Z"
   },
   {
     "id": "easy",
@@ -2343,7 +2343,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:12.549Z"
+    "fetchedAt": "2026-02-02T07:14:18.117Z"
   },
   {
     "id": "oceanic-next",
@@ -2359,7 +2359,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:26.983Z"
+    "fetchedAt": "2026-02-02T07:14:32.206Z"
   },
   {
     "id": "horizon",
@@ -2381,7 +2381,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:26.984Z"
+    "fetchedAt": "2026-02-02T07:14:32.206Z"
   },
   {
     "id": "andyjjrt",
@@ -2403,7 +2403,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:38.306Z"
+    "fetchedAt": "2026-02-02T07:14:43.159Z"
   },
   {
     "id": "jolicode",
@@ -2420,7 +2420,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:52.708Z"
+    "fetchedAt": "2026-02-02T07:14:57.142Z"
   },
   {
     "id": "damienfern",
@@ -2437,7 +2437,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:52.708Z"
+    "fetchedAt": "2026-02-02T07:14:57.142Z"
   },
   {
     "id": "@posva/slidev-theme",
@@ -2460,7 +2460,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:19:52.709Z"
+    "fetchedAt": "2026-02-02T07:14:57.142Z"
   },
   {
     "id": "aneo",
@@ -2477,7 +2477,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:09.984Z"
+    "fetchedAt": "2026-02-02T07:15:13.896Z"
   },
   {
     "id": "cqupt",
@@ -2500,7 +2500,7 @@
       "cqupt"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:09.984Z"
+    "fetchedAt": "2026-02-02T07:15:13.896Z"
   },
   {
     "id": "neon",
@@ -2528,7 +2528,7 @@
       "vilaboim"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:24.449Z"
+    "fetchedAt": "2026-02-02T07:15:27.994Z"
   },
   {
     "id": "netlify",
@@ -2545,7 +2545,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:25.133Z"
+    "fetchedAt": "2026-02-02T07:15:28.658Z"
   },
   {
     "id": "jhq",
@@ -2562,7 +2562,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:25.133Z"
+    "fetchedAt": "2026-02-02T07:15:28.658Z"
   },
   {
     "id": "thelearningdev",
@@ -2584,7 +2584,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:25.133Z"
+    "fetchedAt": "2026-02-02T07:15:28.658Z"
   },
   {
     "id": "hexlet",
@@ -2601,7 +2601,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:39.785Z"
+    "fetchedAt": "2026-02-02T07:15:42.800Z"
   },
   {
     "id": "dimsam",
@@ -2618,7 +2618,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:39.785Z"
+    "fetchedAt": "2026-02-02T07:15:42.800Z"
   },
   {
     "id": "flayyer",
@@ -2642,7 +2642,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:39.785Z"
+    "fetchedAt": "2026-02-02T07:15:42.800Z"
   },
   {
     "id": "codeg",
@@ -2660,7 +2660,7 @@
       "codeg"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:54.318Z"
+    "fetchedAt": "2026-02-02T07:15:56.838Z"
   },
   {
     "id": "itmo",
@@ -2682,7 +2682,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:20:54.318Z"
+    "fetchedAt": "2026-02-02T07:15:56.838Z"
   },
   {
     "id": "excalifont",
@@ -2704,7 +2704,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:08.685Z"
+    "fetchedAt": "2026-02-02T07:16:10.886Z"
   },
   {
     "id": "binlab",
@@ -2726,7 +2726,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:23.309Z"
+    "fetchedAt": "2026-02-02T07:16:24.949Z"
   },
   {
     "id": "hydra-conf",
@@ -2743,24 +2743,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:37.628Z"
-  },
-  {
-    "id": "vatis",
-    "packageName": "slidev-theme-vatis",
-    "name": "Vatis",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-vatis?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-vatis)",
-    "author": "isaacc",
-    "version": "0.0.6",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-vatis",
-    "screenshots": [],
-    "updatedAt": "2023-12-02T06:58:20.637Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:37.628Z"
+    "fetchedAt": "2026-02-02T07:16:38.951Z"
   },
   {
     "id": "ovgu",
@@ -2778,7 +2761,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:37.628Z"
+    "fetchedAt": "2026-02-02T07:16:38.951Z"
   },
   {
     "id": "kolaente-basic",
@@ -2795,7 +2778,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:38.129Z"
+    "fetchedAt": "2026-02-02T07:16:39.452Z"
   },
   {
     "id": "mono",
@@ -2813,7 +2796,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:38.129Z"
+    "fetchedAt": "2026-02-02T07:16:39.452Z"
   },
   {
     "id": "kolaente-bold",
@@ -2835,7 +2818,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:38.129Z"
+    "fetchedAt": "2026-02-02T07:16:39.452Z"
+  },
+  {
+    "id": "vatis",
+    "packageName": "slidev-theme-vatis",
+    "name": "Vatis",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-vatis?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-vatis)",
+    "author": "isaacc",
+    "version": "0.0.6",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-vatis",
+    "screenshots": [],
+    "updatedAt": "2023-12-02T06:58:20.637Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-02T07:16:53.529Z"
   },
   {
     "id": "arthistory",
@@ -2857,7 +2857,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:21:52.667Z"
+    "fetchedAt": "2026-02-02T07:16:53.529Z"
   },
   {
     "id": "csscade",
@@ -2874,7 +2874,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:10.280Z"
+    "fetchedAt": "2026-02-02T07:17:10.643Z"
   },
   {
     "id": "ynn",
@@ -2896,7 +2896,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:10.280Z"
+    "fetchedAt": "2026-02-02T07:17:10.643Z"
   },
   {
     "id": "yasio-dev",
@@ -2921,7 +2921,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:21.506Z"
+    "fetchedAt": "2026-02-02T07:17:21.490Z"
   },
   {
     "id": "@slidex/theme-seriph",
@@ -2943,7 +2943,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:35.891Z"
+    "fetchedAt": "2026-02-02T07:17:35.516Z"
   },
   {
     "id": "sailing-innocent/nju-thesis",
@@ -2960,7 +2960,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:47.026Z"
+    "fetchedAt": "2026-02-02T07:17:46.464Z"
   },
   {
     "id": "joyful",
@@ -2977,7 +2977,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:47.026Z"
+    "fetchedAt": "2026-02-02T07:17:46.464Z"
   },
   {
     "id": "hatch-corporate",
@@ -3005,7 +3005,7 @@
       "components"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:22:47.026Z"
+    "fetchedAt": "2026-02-02T07:17:46.465Z"
   },
   {
     "id": "kotlin",
@@ -3022,7 +3022,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:04.189Z"
+    "fetchedAt": "2026-02-02T07:18:03.287Z"
   },
   {
     "id": "eavise",
@@ -3048,7 +3048,7 @@
       "template"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:04.189Z"
+    "fetchedAt": "2026-02-02T07:18:03.287Z"
   },
   {
     "id": "ox",
@@ -3065,7 +3065,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:18.737Z"
+    "fetchedAt": "2026-02-02T07:18:17.391Z"
   },
   {
     "id": "giec",
@@ -3082,7 +3082,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:18.737Z"
+    "fetchedAt": "2026-02-02T07:18:17.391Z"
   },
   {
     "id": "trustedai",
@@ -3104,7 +3104,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:18.737Z"
+    "fetchedAt": "2026-02-02T07:18:17.391Z"
   },
   {
     "id": "tpm",
@@ -3121,7 +3121,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
+    "fetchedAt": "2026-02-02T07:18:34.152Z"
   },
   {
     "id": "aliyun",
@@ -3138,7 +3138,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
+    "fetchedAt": "2026-02-02T07:18:34.152Z"
   },
   {
     "id": "kage",
@@ -3155,7 +3155,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
+    "fetchedAt": "2026-02-02T07:18:34.153Z"
   },
   {
     "id": "shadow",
@@ -3172,7 +3172,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
+    "fetchedAt": "2026-02-02T07:18:34.153Z"
   },
   {
     "id": "yettoapp/yetto",
@@ -3189,24 +3189,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
-  },
-  {
-    "id": "dotnet-junkie",
-    "packageName": "slidev-theme-dotnet-junkie",
-    "name": "Dotnet Junkie",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-slide-dev-dotnet-junkie?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-slide-dev-dotnet-junkie)",
-    "author": "kasuken",
-    "version": "0.0.30",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-dotnet-junkie",
-    "screenshots": [],
-    "updatedAt": "2023-06-14T14:49:46.924Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
+    "fetchedAt": "2026-02-02T07:18:34.153Z"
   },
   {
     "id": "viplay",
@@ -3229,7 +3212,24 @@
       "viplay"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:35.940Z"
+    "fetchedAt": "2026-02-02T07:18:34.153Z"
+  },
+  {
+    "id": "dotnet-junkie",
+    "packageName": "slidev-theme-dotnet-junkie",
+    "name": "Dotnet Junkie",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-slide-dev-dotnet-junkie?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-slide-dev-dotnet-junkie)",
+    "author": "kasuken",
+    "version": "0.0.30",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-dotnet-junkie",
+    "screenshots": [],
+    "updatedAt": "2023-06-14T14:49:46.924Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-02T07:18:48.250Z"
   },
   {
     "id": "eclipse",
@@ -3246,7 +3246,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:50.424Z"
+    "fetchedAt": "2026-02-02T07:18:48.250Z"
   },
   {
     "id": "martinelli",
@@ -3268,7 +3268,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:23:50.424Z"
+    "fetchedAt": "2026-02-02T07:18:48.250Z"
   },
   {
     "id": "vatisbh",
@@ -3285,7 +3285,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:07.622Z"
+    "fetchedAt": "2026-02-02T07:19:05.083Z"
   },
   {
     "id": "datev-scc",
@@ -3310,7 +3310,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:07.622Z"
+    "fetchedAt": "2026-02-02T07:19:05.083Z"
   },
   {
     "id": "dyte-vaibhavshn",
@@ -3327,7 +3327,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:08.285Z"
+    "fetchedAt": "2026-02-02T07:19:05.721Z"
   },
   {
     "id": "rainforest",
@@ -3344,7 +3344,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:08.285Z"
+    "fetchedAt": "2026-02-02T07:19:05.721Z"
   },
   {
     "id": "klef/klef",
@@ -3361,7 +3361,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:08.285Z"
+    "fetchedAt": "2026-02-02T07:19:05.721Z"
   },
   {
     "id": "renuo",
@@ -3392,7 +3392,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:08.285Z"
+    "fetchedAt": "2026-02-02T07:19:05.721Z"
   },
   {
     "id": "minerva",
@@ -3409,7 +3409,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:08.961Z"
+    "fetchedAt": "2026-02-02T07:19:06.369Z"
   },
   {
     "id": "vuestorefront",
@@ -3434,7 +3434,7 @@
       "slidev-vuestorefront"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:08.961Z"
+    "fetchedAt": "2026-02-02T07:19:06.369Z"
   },
   {
     "id": "vue-i23",
@@ -3458,7 +3458,7 @@
       "krutiepatel"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:20.289Z"
+    "fetchedAt": "2026-02-02T07:19:17.377Z"
   },
   {
     "id": "test",
@@ -3480,7 +3480,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:34.681Z"
+    "fetchedAt": "2026-02-02T07:19:31.421Z"
   },
   {
     "id": "vatisv2",
@@ -3497,7 +3497,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "audioshake",
@@ -3514,7 +3514,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "envek",
@@ -3531,7 +3531,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "bitnate",
@@ -3548,7 +3548,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "greycat",
@@ -3565,7 +3565,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "webhh",
@@ -3582,7 +3582,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "alltech",
@@ -3599,7 +3599,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "supsistudent",
@@ -3618,7 +3618,7 @@
       "supsistudent"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "penguin--kevin-fabre",
@@ -3641,7 +3641,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:51.362Z"
+    "fetchedAt": "2026-02-02T07:19:47.241Z"
   },
   {
     "id": "elysia",
@@ -3659,7 +3659,7 @@
       "elysia"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:52.030Z"
+    "fetchedAt": "2026-02-02T07:19:47.882Z"
   },
   {
     "id": "bestony",
@@ -3676,7 +3676,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:52.030Z"
+    "fetchedAt": "2026-02-02T07:19:47.882Z"
   },
   {
     "id": "poke",
@@ -3698,7 +3698,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:24:52.030Z"
+    "fetchedAt": "2026-02-02T07:19:47.882Z"
   },
   {
     "id": "mazluc",
@@ -3715,7 +3715,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:06.594Z"
+    "fetchedAt": "2026-02-02T07:20:01.932Z"
   },
   {
     "id": "valtech",
@@ -3733,7 +3733,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:06.594Z"
+    "fetchedAt": "2026-02-02T07:20:01.932Z"
   },
   {
     "id": "mrtnvh",
@@ -3750,7 +3750,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:06.595Z"
+    "fetchedAt": "2026-02-02T07:20:01.932Z"
   },
   {
     "id": "mtximu",
@@ -3767,7 +3767,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:06.595Z"
+    "fetchedAt": "2026-02-02T07:20:01.932Z"
+  },
+  {
+    "id": "poli-usp",
+    "packageName": "slidev-theme-poli-usp",
+    "name": "Poli Usp",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-poli-usp?color=3AB9D4)](https://www.npmjs.com/package/slidev-theme-poli-usp)",
+    "author": "lucaslrodri",
+    "version": "0.1.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-poli-usp",
+    "screenshots": [],
+    "updatedAt": "2024-03-07T03:48:09.271Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-02T07:20:01.932Z"
   },
   {
     "id": "lamda",
@@ -3789,7 +3806,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:06.595Z"
+    "fetchedAt": "2026-02-02T07:20:01.932Z"
   },
   {
     "id": "nisl",
@@ -3808,7 +3825,7 @@
       "slidev-theme-NISL"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:20.952Z"
+    "fetchedAt": "2026-02-02T07:20:16.002Z"
   },
   {
     "id": "patrickdronk",
@@ -3825,7 +3842,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:20.952Z"
+    "fetchedAt": "2026-02-02T07:20:16.002Z"
   },
   {
     "id": "ustc",
@@ -3842,7 +3859,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:20.952Z"
+    "fetchedAt": "2026-02-02T07:20:16.002Z"
   },
   {
     "id": "academic-hehaorui",
@@ -3868,7 +3885,7 @@
       "slidev-theme-academic-hehaorui"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:20.952Z"
+    "fetchedAt": "2026-02-02T07:20:16.002Z"
   },
   {
     "id": "monomi",
@@ -3885,24 +3902,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:35.427Z"
-  },
-  {
-    "id": "poli-usp",
-    "packageName": "slidev-theme-poli-usp",
-    "name": "Poli Usp",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-poli-usp?color=3AB9D4)](https://www.npmjs.com/package/slidev-theme-poli-usp)",
-    "author": "lucaslrodri",
-    "version": "0.1.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-poli-usp",
-    "screenshots": [],
-    "updatedAt": "2024-03-07T03:48:09.271Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:35.427Z"
+    "fetchedAt": "2026-02-02T07:20:30.136Z"
   },
   {
     "id": "fhaachen",
@@ -3924,7 +3924,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:35.427Z"
+    "fetchedAt": "2026-02-02T07:20:30.136Z"
   },
   {
     "id": "guara",
@@ -3940,7 +3940,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:49.892Z"
+    "fetchedAt": "2026-02-02T07:20:44.207Z"
   },
   {
     "id": "anny-theme",
@@ -3957,7 +3957,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:49.892Z"
+    "fetchedAt": "2026-02-02T07:20:44.207Z"
   },
   {
     "id": "cxphoenix/isip.hs",
@@ -3980,7 +3980,7 @@
       "isip-hs"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:25:49.892Z"
+    "fetchedAt": "2026-02-02T07:20:44.207Z"
   },
   {
     "id": "polyu",
@@ -4000,7 +4000,7 @@
       "hong kong"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "optiop-theme",
@@ -4016,7 +4016,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "cuc",
@@ -4033,7 +4033,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "denkwerk",
@@ -4050,7 +4050,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "bsc",
@@ -4067,7 +4067,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "@martinelli/theme-slidev",
@@ -4085,7 +4085,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "papershare",
@@ -4102,7 +4102,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "generic",
@@ -4119,7 +4119,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "oqtopus",
@@ -4139,7 +4139,7 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "showy",
@@ -4161,7 +4161,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:04.244Z"
+    "fetchedAt": "2026-02-02T07:20:58.431Z"
   },
   {
     "id": "2024-wadella",
@@ -4178,7 +4178,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:21.477Z"
+    "fetchedAt": "2026-02-02T07:21:15.250Z"
   },
   {
     "id": "imatech",
@@ -4203,7 +4203,7 @@
       "slidev-theme-imatech"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:21.477Z"
+    "fetchedAt": "2026-02-02T07:21:15.250Z"
   },
   {
     "id": "neat",
@@ -4220,7 +4220,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.916Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "myownprussianblue",
@@ -4237,7 +4237,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.916Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "orlando",
@@ -4254,7 +4254,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.916Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "klef/klefpj",
@@ -4271,7 +4271,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.916Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "platformatic",
@@ -4288,7 +4288,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.916Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "nahco314",
@@ -4305,7 +4305,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.916Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "vuetiful-unocss",
@@ -4334,7 +4334,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:35.917Z"
+    "fetchedAt": "2026-02-02T07:21:29.269Z"
   },
   {
     "id": "secsi",
@@ -4351,7 +4351,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:36.579Z"
+    "fetchedAt": "2026-02-02T07:21:29.933Z"
   },
   {
     "id": "101-rs",
@@ -4370,7 +4370,7 @@
       "Rust 101"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:36.579Z"
+    "fetchedAt": "2026-02-02T07:21:29.933Z"
   },
   {
     "id": "dyte",
@@ -4392,7 +4392,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:36.579Z"
+    "fetchedAt": "2026-02-02T07:21:29.933Z"
   },
   {
     "id": "kintone",
@@ -4415,7 +4415,7 @@
       "kintone"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:26:54.366Z"
+    "fetchedAt": "2026-02-02T07:21:47.174Z"
   },
   {
     "id": "martinelli/martinelli",
@@ -4437,7 +4437,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:08.879Z"
+    "fetchedAt": "2026-02-02T07:22:01.229Z"
   },
   {
     "id": "shopee",
@@ -4454,7 +4454,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:26.028Z"
+    "fetchedAt": "2026-02-02T07:22:18.167Z"
   },
   {
     "id": "beta",
@@ -4471,7 +4471,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:26.028Z"
+    "fetchedAt": "2026-02-02T07:22:18.167Z"
   },
   {
     "id": "happy",
@@ -4489,7 +4489,7 @@
       "slidev-theme-happy"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:26.028Z"
+    "fetchedAt": "2026-02-02T07:22:18.167Z"
   },
   {
     "id": "divriots",
@@ -4506,7 +4506,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:26.028Z"
+    "fetchedAt": "2026-02-02T07:22:18.167Z"
   },
   {
     "id": "soba",
@@ -4531,7 +4531,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:26.029Z"
+    "fetchedAt": "2026-02-02T07:22:18.167Z"
   },
   {
     "id": "vuetiful-uno",
@@ -4560,7 +4560,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:26.689Z"
+    "fetchedAt": "2026-02-02T07:22:18.814Z"
   },
   {
     "id": "triumph",
@@ -4577,7 +4577,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:27.312Z"
+    "fetchedAt": "2026-02-02T07:22:19.423Z"
   },
   {
     "id": "anova-basic",
@@ -4599,7 +4599,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:27.312Z"
+    "fetchedAt": "2026-02-02T07:22:19.423Z"
   },
   {
     "id": "queenslab",
@@ -4616,7 +4616,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:44.527Z"
+    "fetchedAt": "2026-02-02T07:22:36.293Z"
   },
   {
     "id": "hexo",
@@ -4633,7 +4633,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:44.527Z"
+    "fetchedAt": "2026-02-02T07:22:36.293Z"
   },
   {
     "id": "tokyo-python",
@@ -4650,7 +4650,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:44.527Z"
+    "fetchedAt": "2026-02-02T07:22:36.293Z"
   },
   {
     "id": "stordahl",
@@ -4667,7 +4667,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:44.527Z"
+    "fetchedAt": "2026-02-02T07:22:36.293Z"
   },
   {
     "id": "roh",
@@ -4684,7 +4684,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:44.527Z"
+    "fetchedAt": "2026-02-02T07:22:36.293Z"
   },
   {
     "id": "hpenguin",
@@ -4707,7 +4707,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:44.527Z"
+    "fetchedAt": "2026-02-02T07:22:36.293Z"
   },
   {
     "id": "sprinteins",
@@ -4724,7 +4724,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "adventiel",
@@ -4741,7 +4741,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "prussianblue",
@@ -4758,7 +4758,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "bolt",
@@ -4775,7 +4775,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "excelsea",
@@ -4792,7 +4792,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "project-documentation",
@@ -4809,7 +4809,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "friendly",
@@ -4826,7 +4826,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   },
   {
     "id": "echmo/aircraft1",
@@ -4844,6 +4844,6 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-02T02:27:45.305Z"
+    "fetchedAt": "2026-02-02T07:22:37.029Z"
   }
 ]
