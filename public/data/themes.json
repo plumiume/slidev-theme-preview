@@ -19,7 +19,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-05T13:00:50.068Z"
+    "fetchedAt": "2026-02-05T18:45:55.427Z"
   },
   {
     "id": "seriph",
@@ -41,7 +41,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-05T13:01:01.654Z"
+    "fetchedAt": "2026-02-05T18:46:06.695Z"
   },
   {
     "id": "ehl2022",
@@ -66,7 +66,7 @@
       "theme-ehl2022"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:01:12.952Z"
+    "fetchedAt": "2026-02-05T18:46:18.040Z"
   },
   {
     "id": "apple-basic",
@@ -88,7 +88,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-05T13:01:27.458Z"
+    "fetchedAt": "2026-02-05T18:46:32.403Z"
   },
   {
     "id": "alchemmist",
@@ -97,21 +97,21 @@
     "description": "Theme fro slidev by alchemmist",
     "author": "alchemmist",
     "authorUrl": "https://github.com/alchemmist",
-    "version": "0.1.16",
+    "version": "0.1.18",
     "repositoryUrl": "git+https://github.com/alchemmist/slidev-theme-alchemmist",
     "npmUrl": "https://www.npmjs.com/package/slidev-theme-alchemmist",
     "demoUrl": "https://sli.dev",
     "screenshots": [
       "https://opengraph.githubassets.com/1/alchemmist/slidev-theme-alchemmist"
     ],
-    "updatedAt": "2026-01-23T14:20:38.224Z",
+    "updatedAt": "2026-02-05T14:04:26.566Z",
     "keywords": [
       "slidev-theme",
       "slidev",
       "alchemmist"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:01:38.803Z"
+    "fetchedAt": "2026-02-05T18:46:43.606Z"
   },
   {
     "id": "academic",
@@ -137,7 +137,7 @@
       "slidev-theme-academic"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:01:53.349Z"
+    "fetchedAt": "2026-02-05T18:46:58.065Z"
   },
   {
     "id": "nmt",
@@ -154,7 +154,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:02:07.660Z"
+    "fetchedAt": "2026-02-05T18:47:12.563Z"
   },
   {
     "id": "gtlabo",
@@ -179,7 +179,7 @@
       "vue"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:02:07.660Z"
+    "fetchedAt": "2026-02-05T18:47:12.563Z"
   },
   {
     "id": "neversink",
@@ -201,7 +201,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:02:22.285Z"
+    "fetchedAt": "2026-02-05T18:47:26.985Z"
   },
   {
     "id": "bricks",
@@ -223,7 +223,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-05T13:02:36.805Z"
+    "fetchedAt": "2026-02-05T18:47:41.342Z"
   },
   {
     "id": "meetup",
@@ -247,7 +247,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:02:48.278Z"
+    "fetchedAt": "2026-02-05T18:47:52.456Z"
   },
   {
     "id": "shibainu",
@@ -269,7 +269,29 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-05T13:03:03.089Z"
+    "fetchedAt": "2026-02-05T18:48:07.751Z"
+  },
+  {
+    "id": "@openscript-ch/slidev-theme",
+    "packageName": "@openscript-ch/slidev-theme",
+    "name": "@openscript Ch Slidev Theme",
+    "description": "Our companies (openscript Ltd.) slidev theme.",
+    "author": "GitHub Actions",
+    "authorUrl": "https://github.com/openscript-ch",
+    "version": "0.10.11",
+    "repositoryUrl": "git+https://github.com/openscript-ch/slidev-theme",
+    "npmUrl": "https://www.npmjs.com/package/@openscript-ch/slidev-theme",
+    "demoUrl": "https://github.com/openscript-ch/slidev-theme#readme",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/openscript-ch/slidev-theme"
+    ],
+    "updatedAt": "2026-01-05T16:56:38.750Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:48:18.697Z"
   },
   {
     "id": "swiss-ai-hub",
@@ -297,29 +319,7 @@
       "dark-theme"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:03:14.294Z"
-  },
-  {
-    "id": "@openscript-ch/slidev-theme",
-    "packageName": "@openscript-ch/slidev-theme",
-    "name": "@openscript Ch Slidev Theme",
-    "description": "Our companies (openscript Ltd.) slidev theme.",
-    "author": "GitHub Actions",
-    "authorUrl": "https://github.com/openscript-ch",
-    "version": "0.10.11",
-    "repositoryUrl": "git+https://github.com/openscript-ch/slidev-theme",
-    "npmUrl": "https://www.npmjs.com/package/@openscript-ch/slidev-theme",
-    "demoUrl": "https://github.com/openscript-ch/slidev-theme#readme",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/openscript-ch/slidev-theme"
-    ],
-    "updatedAt": "2026-01-05T16:56:38.750Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:03:28.943Z"
+    "fetchedAt": "2026-02-05T18:48:32.988Z"
   },
   {
     "id": "geist",
@@ -337,7 +337,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:03:43.613Z"
+    "fetchedAt": "2026-02-05T18:48:47.296Z"
   },
   {
     "id": "scholarly",
@@ -364,7 +364,7 @@
       "latex"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:03:43.613Z"
+    "fetchedAt": "2026-02-05T18:48:47.296Z"
   },
   {
     "id": "nearform",
@@ -386,7 +386,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:03:58.068Z"
+    "fetchedAt": "2026-02-05T18:49:01.566Z"
   },
   {
     "id": "penguin",
@@ -409,7 +409,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:12.748Z"
+    "fetchedAt": "2026-02-05T18:49:16.019Z"
   },
   {
     "id": "the-unnamed",
@@ -426,7 +426,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:13.658Z"
+    "fetchedAt": "2026-02-05T18:49:16.766Z"
   },
   {
     "id": "sp-days-framework/sykehuspartner",
@@ -448,7 +448,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:13.659Z"
+    "fetchedAt": "2026-02-05T18:49:16.767Z"
   },
   {
     "id": "echmo/aircraft1",
@@ -466,7 +466,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:31.770Z"
+    "fetchedAt": "2026-02-05T18:49:34.541Z"
   },
   {
     "id": "fossunited",
@@ -483,7 +483,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:32.270Z"
+    "fetchedAt": "2026-02-05T18:49:35.042Z"
   },
   {
     "id": "frankfurt",
@@ -512,7 +512,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:32.270Z"
+    "fetchedAt": "2026-02-05T18:49:35.042Z"
   },
   {
     "id": "light-icons",
@@ -538,7 +538,7 @@
       "light-icons"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:32.904Z"
+    "fetchedAt": "2026-02-05T18:49:35.685Z"
   },
   {
     "id": "cxphoenix/fhsh-isiphs-universal",
@@ -564,7 +564,7 @@
       "universal"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:04:47.566Z"
+    "fetchedAt": "2026-02-05T18:49:49.913Z"
   },
   {
     "id": "purplin",
@@ -588,7 +588,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:02.206Z"
+    "fetchedAt": "2026-02-05T18:50:04.115Z"
   },
   {
     "id": "echmo/robot-pre1",
@@ -606,7 +606,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:16.708Z"
+    "fetchedAt": "2026-02-05T18:50:18.392Z"
   },
   {
     "id": "csscade",
@@ -623,7 +623,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:17.209Z"
+    "fetchedAt": "2026-02-05T18:50:18.893Z"
   },
   {
     "id": "unicorn",
@@ -664,7 +664,7 @@
       "dawntraoz"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:17.209Z"
+    "fetchedAt": "2026-02-05T18:50:18.893Z"
   },
   {
     "id": "leilei-custom1",
@@ -681,7 +681,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:17.916Z"
+    "fetchedAt": "2026-02-05T18:50:19.534Z"
+  },
+  {
+    "id": "rockdove",
+    "packageName": "slidev-theme-rockdove",
+    "name": "Rockdove",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-rockdove?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-rockdove)",
+    "author": "glombek",
+    "version": "1.3.2",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-rockdove",
+    "screenshots": [],
+    "updatedAt": "2026-01-29T16:43:51.412Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:50:19.534Z"
   },
   {
     "id": "gemini",
@@ -703,7 +720,7 @@
       "slidev-theme"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:17.916Z"
+    "fetchedAt": "2026-02-05T18:50:19.534Z"
   },
   {
     "id": "excali-slide",
@@ -727,7 +744,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:32.423Z"
+    "fetchedAt": "2026-02-05T18:50:33.775Z"
   },
   {
     "id": "one-purple-unicorn-pro",
@@ -749,7 +766,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:05:46.743Z"
+    "fetchedAt": "2026-02-05T18:50:47.918Z"
   },
   {
     "id": "wordman",
@@ -766,7 +783,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:01.254Z"
+    "fetchedAt": "2026-02-05T18:51:02.067Z"
   },
   {
     "id": "dataerai",
@@ -783,7 +800,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:01.254Z"
+    "fetchedAt": "2026-02-05T18:51:02.067Z"
   },
   {
     "id": "@workshops.de/slidev-theme",
@@ -801,7 +818,7 @@
       "workshops.de"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:01.254Z"
+    "fetchedAt": "2026-02-05T18:51:02.067Z"
   },
   {
     "id": "nord",
@@ -825,7 +842,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:01.254Z"
+    "fetchedAt": "2026-02-05T18:51:02.067Z"
   },
   {
     "id": "gravitek/gravitek",
@@ -848,7 +865,7 @@
       "gravitek"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:15.735Z"
+    "fetchedAt": "2026-02-05T18:51:16.123Z"
   },
   {
     "id": "zero-slide",
@@ -865,7 +882,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:30.341Z"
+    "fetchedAt": "2026-02-05T18:51:30.519Z"
   },
   {
     "id": "academic-schober",
@@ -891,7 +908,7 @@
       "slidev-theme-academic-schober"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:30.341Z"
+    "fetchedAt": "2026-02-05T18:51:30.519Z"
   },
   {
     "id": "diapositiv",
@@ -914,7 +931,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:44.964Z"
+    "fetchedAt": "2026-02-05T18:51:44.907Z"
   },
   {
     "id": "vuetiful",
@@ -941,7 +958,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:06:59.487Z"
+    "fetchedAt": "2026-02-05T18:51:59.049Z"
   },
   {
     "id": "reveal",
@@ -958,7 +975,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:00.149Z"
+    "fetchedAt": "2026-02-05T18:51:59.697Z"
   },
   {
     "id": "eloc",
@@ -980,7 +997,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:00.149Z"
+    "fetchedAt": "2026-02-05T18:51:59.697Z"
   },
   {
     "id": "watabegg",
@@ -1007,7 +1024,7 @@
       "teaching"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:14.959Z"
+    "fetchedAt": "2026-02-05T18:52:14.081Z"
   },
   {
     "id": "greycat",
@@ -1024,7 +1041,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:29.613Z"
+    "fetchedAt": "2026-02-05T18:52:28.236Z"
   },
   {
     "id": "ktym4a/ktym4a",
@@ -1049,7 +1066,7 @@
       "pastel"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:29.613Z"
+    "fetchedAt": "2026-02-05T18:52:28.236Z"
   },
   {
     "id": "mokkapps",
@@ -1066,7 +1083,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:44.232Z"
+    "fetchedAt": "2026-02-05T18:52:42.420Z"
   },
   {
     "id": "hep",
@@ -1090,7 +1107,7 @@
       "HEP"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:44.232Z"
+    "fetchedAt": "2026-02-05T18:52:42.420Z"
   },
   {
     "id": "smile",
@@ -1114,7 +1131,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:07:58.771Z"
+    "fetchedAt": "2026-02-05T18:52:56.567Z"
   },
   {
     "id": "exam-prep",
@@ -1134,7 +1151,7 @@
       "teaching"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:13.293Z"
+    "fetchedAt": "2026-02-05T18:53:10.849Z"
   },
   {
     "id": "dfhi-isfates",
@@ -1158,7 +1175,7 @@
       "isfates"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:13.293Z"
+    "fetchedAt": "2026-02-05T18:53:10.849Z"
   },
   {
     "id": "ksick-dynatrace",
@@ -1175,7 +1192,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:27.864Z"
+    "fetchedAt": "2026-02-05T18:53:24.992Z"
   },
   {
     "id": "zhozhoba",
@@ -1198,7 +1215,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:27.864Z"
+    "fetchedAt": "2026-02-05T18:53:24.992Z"
   },
   {
     "id": "ptna",
@@ -1222,7 +1239,7 @@
       "piano"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:42.345Z"
+    "fetchedAt": "2026-02-05T18:53:39.012Z"
   },
   {
     "id": "rich",
@@ -1246,7 +1263,7 @@
       "device mockup"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:56.934Z"
+    "fetchedAt": "2026-02-05T18:53:53.142Z"
   },
   {
     "id": "viplay",
@@ -1269,7 +1286,7 @@
       "viplay"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:08:56.934Z"
+    "fetchedAt": "2026-02-05T18:53:53.142Z"
   },
   {
     "id": "miracle",
@@ -1295,7 +1312,7 @@
       "slidev-theme-miracle"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:09:11.351Z"
+    "fetchedAt": "2026-02-05T18:54:07.363Z"
   },
   {
     "id": "foamscience",
@@ -1312,7 +1329,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:09:30.351Z"
+    "fetchedAt": "2026-02-05T18:54:21.534Z"
   },
   {
     "id": "sirius-college",
@@ -1334,7 +1351,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:09:30.351Z"
+    "fetchedAt": "2026-02-05T18:54:21.534Z"
   },
   {
     "id": "abicom",
@@ -1351,29 +1368,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:09:44.809Z"
-  },
-  {
-    "id": "kalouk",
-    "packageName": "slidev-theme-kalouk",
-    "name": "Kalouk",
-    "description": "Kalouk theme for Slidev",
-    "author": "fabianabarca",
-    "authorUrl": "https://github.com/fabianabarca",
-    "version": "0.3.1",
-    "repositoryUrl": "git+https://github.com/fabianabarca/kalouk",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-kalouk",
-    "demoUrl": "https://github.com/fabianabarca/kalouk",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/fabianabarca/kalouk"
-    ],
-    "updatedAt": "2025-08-18T18:16:15.361Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:09:44.809Z"
+    "fetchedAt": "2026-02-05T18:54:35.628Z"
   },
   {
     "id": "modern-tech",
@@ -1395,7 +1390,29 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:09:59.262Z"
+    "fetchedAt": "2026-02-05T18:54:35.628Z"
+  },
+  {
+    "id": "kalouk",
+    "packageName": "slidev-theme-kalouk",
+    "name": "Kalouk",
+    "description": "Kalouk theme for Slidev",
+    "author": "fabianabarca",
+    "authorUrl": "https://github.com/fabianabarca",
+    "version": "0.3.1",
+    "repositoryUrl": "git+https://github.com/fabianabarca/kalouk",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-kalouk",
+    "demoUrl": "https://github.com/fabianabarca/kalouk",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/fabianabarca/kalouk"
+    ],
+    "updatedAt": "2025-08-18T18:16:15.361Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:54:51.272Z"
   },
   {
     "id": "iodigital",
@@ -1417,7 +1434,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:15.734Z"
+    "fetchedAt": "2026-02-05T18:55:05.426Z"
   },
   {
     "id": "webksde",
@@ -1436,7 +1453,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:27.200Z"
+    "fetchedAt": "2026-02-05T18:55:16.628Z"
   },
   {
     "id": "datev-scc",
@@ -1461,7 +1478,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:27.701Z"
+    "fetchedAt": "2026-02-05T18:55:17.129Z"
   },
   {
     "id": "ycs77",
@@ -1478,7 +1495,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:28.332Z"
+    "fetchedAt": "2026-02-05T18:55:17.770Z"
+  },
+  {
+    "id": "aotoki/terraforming",
+    "packageName": "@aotoki/slidev-theme-terraforming",
+    "name": "Aotoki Terraforming",
+    "description": "[![NPM version](https://img.shields.io/npm/v/@aotoki/slidev-theme-terraforming?color=3AB9D4&label=)](https://www.npmjs.com/package/@aotoki/slidev-theme-terraforming)",
+    "author": "elct9620",
+    "version": "0.4.3",
+    "npmUrl": "https://www.npmjs.com/package/@aotoki/slidev-theme-terraforming",
+    "screenshots": [],
+    "updatedAt": "2025-11-06T16:15:32.633Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:55:17.771Z"
   },
   {
     "id": "takahashi",
@@ -1496,7 +1530,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:28.332Z"
+    "fetchedAt": "2026-02-05T18:55:17.771Z"
   },
   {
     "id": "antfu-vite-conf-2023",
@@ -1519,7 +1553,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:28.834Z"
+    "fetchedAt": "2026-02-05T18:55:18.271Z"
   },
   {
     "id": "capgemini",
@@ -1537,7 +1571,7 @@
       "capgemini"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:43.605Z"
+    "fetchedAt": "2026-02-05T18:55:32.494Z"
   },
   {
     "id": "echmo/aircraft-pre1",
@@ -1555,7 +1589,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:43.605Z"
+    "fetchedAt": "2026-02-05T18:55:32.494Z"
   },
   {
     "id": "rainforest",
@@ -1572,7 +1606,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:44.106Z"
+    "fetchedAt": "2026-02-05T18:55:32.995Z"
   },
   {
     "id": "improving-25",
@@ -1598,7 +1632,7 @@
       "slides"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:44.106Z"
+    "fetchedAt": "2026-02-05T18:55:32.995Z"
   },
   {
     "id": "echmo/drone1",
@@ -1616,24 +1650,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:58.738Z"
-  },
-  {
-    "id": "aotoki/terraforming",
-    "packageName": "@aotoki/slidev-theme-terraforming",
-    "name": "Aotoki Terraforming",
-    "description": "[![NPM version](https://img.shields.io/npm/v/@aotoki/slidev-theme-terraforming?color=3AB9D4&label=)](https://www.npmjs.com/package/@aotoki/slidev-theme-terraforming)",
-    "author": "elct9620",
-    "version": "0.4.3",
-    "npmUrl": "https://www.npmjs.com/package/@aotoki/slidev-theme-terraforming",
-    "screenshots": [],
-    "updatedAt": "2025-11-06T16:15:32.633Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:59.239Z"
+    "fetchedAt": "2026-02-05T18:55:47.223Z"
   },
   {
     "id": "dualboot",
@@ -1653,7 +1670,24 @@
       "Dualboot Partners"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:59.239Z"
+    "fetchedAt": "2026-02-05T18:55:47.724Z"
+  },
+  {
+    "id": "hexlet",
+    "packageName": "slidev-theme-hexlet",
+    "name": "Hexlet",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-hexlet?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-hexlet)",
+    "author": "mshkv",
+    "version": "0.0.17",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-hexlet",
+    "screenshots": [],
+    "updatedAt": "2021-11-15T08:46:50.607Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:55:48.225Z"
   },
   {
     "id": "penguin-ht",
@@ -1675,41 +1709,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:10:59.740Z"
-  },
-  {
-    "id": "hexlet",
-    "packageName": "slidev-theme-hexlet",
-    "name": "Hexlet",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-hexlet?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-hexlet)",
-    "author": "mshkv",
-    "version": "0.0.17",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-hexlet",
-    "screenshots": [],
-    "updatedAt": "2021-11-15T08:46:50.607Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:17.694Z"
-  },
-  {
-    "id": "aneo",
-    "packageName": "slidev-theme-aneo",
-    "name": "Aneo",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-aneo?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-aneo)",
-    "author": "barbapapazes",
-    "version": "0.6.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-aneo",
-    "screenshots": [],
-    "updatedAt": "2023-06-25T14:00:56.855Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:17.694Z"
+    "fetchedAt": "2026-02-05T18:55:48.225Z"
   },
   {
     "id": "enolive",
@@ -1733,7 +1733,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:17.694Z"
+    "fetchedAt": "2026-02-05T18:56:05.555Z"
+  },
+  {
+    "id": "aneo",
+    "packageName": "slidev-theme-aneo",
+    "name": "Aneo",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-aneo?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-aneo)",
+    "author": "barbapapazes",
+    "version": "0.6.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-aneo",
+    "screenshots": [],
+    "updatedAt": "2023-06-25T14:00:56.855Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:56:19.706Z"
   },
   {
     "id": "vatis",
@@ -1750,7 +1767,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:32.386Z"
+    "fetchedAt": "2026-02-05T18:56:19.706Z"
   },
   {
     "id": "mint",
@@ -1772,7 +1789,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:32.386Z"
+    "fetchedAt": "2026-02-05T18:56:19.706Z"
   },
   {
     "id": "storyblok",
@@ -1789,7 +1806,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:46.996Z"
+    "fetchedAt": "2026-02-05T18:56:33.846Z"
   },
   {
     "id": "mudssky/default",
@@ -1806,7 +1823,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:46.996Z"
+    "fetchedAt": "2026-02-05T18:56:33.846Z"
   },
   {
     "id": "flyingstudio",
@@ -1823,7 +1840,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:46.996Z"
+    "fetchedAt": "2026-02-05T18:56:33.846Z"
   },
   {
     "id": "kolaente-basic",
@@ -1840,7 +1857,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:46.996Z"
+    "fetchedAt": "2026-02-05T18:56:33.846Z"
   },
   {
     "id": "vue-i23",
@@ -1864,7 +1881,7 @@
       "krutiepatel"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:11:46.996Z"
+    "fetchedAt": "2026-02-05T18:56:33.846Z"
   },
   {
     "id": "arthistory",
@@ -1886,7 +1903,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:01.475Z"
+    "fetchedAt": "2026-02-05T18:56:47.964Z"
   },
   {
     "id": "easy",
@@ -1910,7 +1927,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:19.172Z"
+    "fetchedAt": "2026-02-05T18:57:05.136Z"
   },
   {
     "id": "ink",
@@ -1927,7 +1944,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.375Z"
   },
   {
     "id": "teach-rs",
@@ -1947,7 +1964,7 @@
       "Rust 101"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.375Z"
   },
   {
     "id": "oqtopus",
@@ -1967,7 +1984,7 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.375Z"
   },
   {
     "id": "hydra-conf",
@@ -1984,7 +2001,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.375Z"
   },
   {
     "id": "audioshake",
@@ -2001,7 +2018,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
   },
   {
     "id": "doctolib",
@@ -2019,7 +2036,7 @@
       "doctolib"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
   },
   {
     "id": "neu",
@@ -2036,7 +2053,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
   },
   {
     "id": "spezi",
@@ -2053,7 +2070,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
   },
   {
     "id": "hal",
@@ -2070,7 +2087,25 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
+  },
+  {
+    "id": "happy",
+    "packageName": "slidev-theme-happy",
+    "name": "Happy",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-happy?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-happy)",
+    "author": "2046",
+    "version": "1.1.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-happy",
+    "screenshots": [],
+    "updatedAt": "2022-07-07T03:09:23.232Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev",
+      "slidev-theme-happy"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
   },
   {
     "id": "cxphoenix/fhsh-aisp",
@@ -2094,7 +2129,7 @@
       "aisp"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:33.759Z"
+    "fetchedAt": "2026-02-05T18:57:19.376Z"
   },
   {
     "id": "linkedin-carousel",
@@ -2112,42 +2147,7 @@
       "linkedin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:48.347Z"
-  },
-  {
-    "id": "rockdove",
-    "packageName": "slidev-theme-rockdove",
-    "name": "Rockdove",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-rockdove?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-rockdove)",
-    "author": "glombek",
-    "version": "1.3.2",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-rockdove",
-    "screenshots": [],
-    "updatedAt": "2026-01-29T16:43:51.412Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:48.347Z"
-  },
-  {
-    "id": "happy",
-    "packageName": "slidev-theme-happy",
-    "name": "Happy",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-happy?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-happy)",
-    "author": "2046",
-    "version": "1.1.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-happy",
-    "screenshots": [],
-    "updatedAt": "2022-07-07T03:09:23.232Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev",
-      "slidev-theme-happy"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:48.347Z"
+    "fetchedAt": "2026-02-05T18:57:33.525Z"
   },
   {
     "id": "ekino/ekino",
@@ -2165,7 +2165,7 @@
       "ekino"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:48.348Z"
+    "fetchedAt": "2026-02-05T18:57:33.526Z"
   },
   {
     "id": "@mehl/husbanken-slidev-theme",
@@ -2187,7 +2187,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:12:48.348Z"
+    "fetchedAt": "2026-02-05T18:57:33.526Z"
   },
   {
     "id": "bawue",
@@ -2206,7 +2206,7 @@
       "zsl"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:02.785Z"
+    "fetchedAt": "2026-02-05T18:57:47.559Z"
   },
   {
     "id": "cqupt",
@@ -2229,7 +2229,7 @@
       "cqupt"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:02.785Z"
+    "fetchedAt": "2026-02-05T18:57:47.559Z"
   },
   {
     "id": "touraine-tech",
@@ -2254,7 +2254,7 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:17.151Z"
+    "fetchedAt": "2026-02-05T18:58:01.804Z"
   },
   {
     "id": "martinelli",
@@ -2276,7 +2276,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:31.813Z"
+    "fetchedAt": "2026-02-05T18:58:15.975Z"
   },
   {
     "id": "atc",
@@ -2293,7 +2293,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:49.103Z"
+    "fetchedAt": "2026-02-05T18:58:32.710Z"
   },
   {
     "id": "dotnet-junkie",
@@ -2310,83 +2310,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:49.103Z"
-  },
-  {
-    "id": "onecraft",
-    "packageName": "slidev-theme-onecraft",
-    "name": "Onecraft",
-    "description": "A theme for Slidev inspired by Onecraft.",
-    "author": "spawnrider",
-    "version": "1.0.5",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-onecraft",
-    "screenshots": [],
-    "updatedAt": "2025-04-04T14:56:56.519Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev",
-      "capgemini",
-      "onecraft"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:49.104Z"
-  },
-  {
-    "id": "zlict/zli",
-    "packageName": "@zlict/slidev-theme-zli",
-    "name": "Zlict Zli",
-    "description": "Slidev Theme for Zürcher Lehrbetriebsverband ICT (ZLI)",
-    "author": "openscript",
-    "authorUrl": "https://github.com/zlict",
-    "version": "0.7.1",
-    "repositoryUrl": "git+https://github.com/zlict/slidev-theme",
-    "npmUrl": "https://www.npmjs.com/package/@zlict/slidev-theme-zli",
-    "demoUrl": "https://github.com/zlict/slidev-theme",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/zlict/slidev-theme"
-    ],
-    "updatedAt": "2025-07-07T12:45:50.668Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:13:49.104Z"
-  },
-  {
-    "id": "codeg",
-    "packageName": "slidev-theme-codeg",
-    "name": "Codeg",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-codeg?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-codeg)",
-    "author": "lewis-v",
-    "version": "0.1.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-codeg",
-    "screenshots": [],
-    "updatedAt": "2022-03-01T21:46:16.226Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev",
-      "codeg"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:04.155Z"
-  },
-  {
-    "id": "bestony",
-    "packageName": "slidev-theme-bestony",
-    "name": "Bestony",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-bestony?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-bestony)",
-    "author": "bestony",
-    "version": "0.0.12",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-bestony",
-    "screenshots": [],
-    "updatedAt": "2021-09-09T02:41:16.373Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:04.155Z"
+    "fetchedAt": "2026-02-05T18:58:32.710Z"
   },
   {
     "id": "soba",
@@ -2411,7 +2335,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:04.155Z"
+    "fetchedAt": "2026-02-05T18:58:32.710Z"
   },
   {
     "id": "beta",
@@ -2428,7 +2352,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:04.979Z"
+    "fetchedAt": "2026-02-05T18:58:33.353Z"
   },
   {
     "id": "webksde/webksde",
@@ -2447,7 +2371,83 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:04.979Z"
+    "fetchedAt": "2026-02-05T18:58:33.353Z"
+  },
+  {
+    "id": "onecraft",
+    "packageName": "slidev-theme-onecraft",
+    "name": "Onecraft",
+    "description": "A theme for Slidev inspired by Onecraft.",
+    "author": "spawnrider",
+    "version": "1.0.5",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-onecraft",
+    "screenshots": [],
+    "updatedAt": "2025-04-04T14:56:56.519Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev",
+      "capgemini",
+      "onecraft"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:58:33.854Z"
+  },
+  {
+    "id": "zlict/zli",
+    "packageName": "@zlict/slidev-theme-zli",
+    "name": "Zlict Zli",
+    "description": "Slidev Theme for Zürcher Lehrbetriebsverband ICT (ZLI)",
+    "author": "openscript",
+    "authorUrl": "https://github.com/zlict",
+    "version": "0.7.1",
+    "repositoryUrl": "git+https://github.com/zlict/slidev-theme",
+    "npmUrl": "https://www.npmjs.com/package/@zlict/slidev-theme-zli",
+    "demoUrl": "https://github.com/zlict/slidev-theme",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/zlict/slidev-theme"
+    ],
+    "updatedAt": "2025-07-07T12:45:50.668Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:58:33.854Z"
+  },
+  {
+    "id": "codeg",
+    "packageName": "slidev-theme-codeg",
+    "name": "Codeg",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-codeg?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-codeg)",
+    "author": "lewis-v",
+    "version": "0.1.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-codeg",
+    "screenshots": [],
+    "updatedAt": "2022-03-01T21:46:16.226Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev",
+      "codeg"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:58:48.164Z"
+  },
+  {
+    "id": "bestony",
+    "packageName": "slidev-theme-bestony",
+    "name": "Bestony",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-bestony?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-bestony)",
+    "author": "bestony",
+    "version": "0.0.12",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-bestony",
+    "screenshots": [],
+    "updatedAt": "2021-09-09T02:41:16.373Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:58:48.164Z"
   },
   {
     "id": "neo",
@@ -2464,7 +2464,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:05.480Z"
+    "fetchedAt": "2026-02-05T18:58:48.164Z"
   },
   {
     "id": "dimsam",
@@ -2481,7 +2481,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:05.480Z"
+    "fetchedAt": "2026-02-05T18:58:48.164Z"
   },
   {
     "id": "ventus",
@@ -2500,7 +2500,7 @@
       "slidev-theme-ventus"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:05.480Z"
+    "fetchedAt": "2026-02-05T18:58:48.164Z"
   },
   {
     "id": "dasheng",
@@ -2529,7 +2529,24 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:05.480Z"
+    "fetchedAt": "2026-02-05T18:58:48.164Z"
+  },
+  {
+    "id": "shopee",
+    "packageName": "slidev-theme-shopee",
+    "name": "Shopee",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-shopee-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-shopee-theme)",
+    "author": "xingyu.hu",
+    "version": "0.0.4",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-shopee",
+    "screenshots": [],
+    "updatedAt": "2022-07-24T15:42:50.390Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T18:58:48.835Z"
   },
   {
     "id": "tum-unofficial",
@@ -2551,7 +2568,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:06.169Z"
+    "fetchedAt": "2026-02-05T18:58:48.835Z"
   },
   {
     "id": "nxyz",
@@ -2576,24 +2593,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:20.890Z"
-  },
-  {
-    "id": "shopee",
-    "packageName": "slidev-theme-shopee",
-    "name": "Shopee",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-shopee-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-shopee-theme)",
-    "author": "xingyu.hu",
-    "version": "0.0.4",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-shopee",
-    "screenshots": [],
-    "updatedAt": "2022-07-24T15:42:50.390Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:35.478Z"
+    "fetchedAt": "2026-02-05T18:59:02.961Z"
   },
   {
     "id": "coston",
@@ -2620,7 +2620,7 @@
       "backgrounds"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:35.478Z"
+    "fetchedAt": "2026-02-05T18:59:16.972Z"
   },
   {
     "id": "yasio-dev",
@@ -2645,7 +2645,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:14:53.032Z"
+    "fetchedAt": "2026-02-05T18:59:34.072Z"
   },
   {
     "id": "flayyer",
@@ -2669,7 +2669,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:07.597Z"
+    "fetchedAt": "2026-02-05T18:59:48.189Z"
   },
   {
     "id": "@slidex/theme-default",
@@ -2686,70 +2686,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:22.238Z"
-  },
-  {
-    "id": "eavise",
-    "packageName": "slidev-theme-eavise",
-    "name": "Eavise",
-    "description": "EAVISE Theme for Slidev",
-    "author": "0phoff",
-    "authorUrl": "https://github.com/0phoff",
-    "version": "1.1.0",
-    "repositoryUrl": "git+https://github.com/0phoff/slidev-theme-eavise",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-eavise",
-    "demoUrl": "https://github.com/0phoff/slidev-theme-eavise#readme",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/0phoff/slidev-theme-eavise"
-    ],
-    "updatedAt": "2023-11-23T13:40:51.434Z",
-    "keywords": [
-      "slidev",
-      "slidev-theme",
-      "eavise",
-      "ku leuven",
-      "presentation",
-      "template"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:22.238Z"
-  },
-  {
-    "id": "ninja",
-    "packageName": "slidev-theme-ninja",
-    "name": "Ninja",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-ninja?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-ninja)",
-    "author": "nogu",
-    "version": "0.2.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-ninja",
-    "demoUrl": "https://github.com/nogu66/slidev-theme-ninja#readme",
-    "screenshots": [],
-    "updatedAt": "2025-10-22T10:26:52.514Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:36.788Z"
-  },
-  {
-    "id": "inloopstudio/inloopstudio",
-    "packageName": "@inloopstudio/slidev-theme-inloopstudio",
-    "name": "Inloopstudio Inloopstudio",
-    "description": "Brand‑accurate Slidev theme for Inloop Studio (fonts, colors, logo, backgrounds), using a clear README structure similar to neversink.",
-    "author": "huydtt",
-    "version": "0.1.1",
-    "npmUrl": "https://www.npmjs.com/package/@inloopstudio/slidev-theme-inloopstudio",
-    "screenshots": [],
-    "updatedAt": "2025-11-17T05:38:17.021Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev",
-      "inloop",
-      "brand"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:36.788Z"
+    "fetchedAt": "2026-02-05T19:00:02.302Z"
   },
   {
     "id": "@createiq/slidev-theme",
@@ -2785,41 +2722,70 @@
       "createiq"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:36.788Z"
+    "fetchedAt": "2026-02-05T19:00:02.302Z"
   },
   {
-    "id": "giec",
-    "packageName": "slidev-theme-giec",
-    "name": "Giec",
-    "description": "<!--  * @Author: Ajie  * @Date: 2024-10-16 12:11:40  * @LastEditTime: 2024-10-16 14:08:51  * @LastEditors: Ajie  * @Description:   * @FilePath: \\slidev-theme-ustc-master\\README.md  * 站在巨人的肩膀上，做正确的事 --> # slidev-theme-ustc",
-    "author": "ajie528",
-    "version": "1.0.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-giec",
+    "id": "eavise",
+    "packageName": "slidev-theme-eavise",
+    "name": "Eavise",
+    "description": "EAVISE Theme for Slidev",
+    "author": "0phoff",
+    "authorUrl": "https://github.com/0phoff",
+    "version": "1.1.0",
+    "repositoryUrl": "git+https://github.com/0phoff/slidev-theme-eavise",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-eavise",
+    "demoUrl": "https://github.com/0phoff/slidev-theme-eavise#readme",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/0phoff/slidev-theme-eavise"
+    ],
+    "updatedAt": "2023-11-23T13:40:51.434Z",
+    "keywords": [
+      "slidev",
+      "slidev-theme",
+      "eavise",
+      "ku leuven",
+      "presentation",
+      "template"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:00:02.970Z"
+  },
+  {
+    "id": "ninja",
+    "packageName": "slidev-theme-ninja",
+    "name": "Ninja",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-ninja?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-ninja)",
+    "author": "nogu",
+    "version": "0.2.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-ninja",
+    "demoUrl": "https://github.com/nogu66/slidev-theme-ninja#readme",
     "screenshots": [],
-    "updatedAt": "2024-10-16T07:27:28.282Z",
+    "updatedAt": "2025-10-22T10:26:52.514Z",
     "keywords": [
       "slidev-theme",
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:37.476Z"
+    "fetchedAt": "2026-02-05T19:00:17.149Z"
   },
   {
-    "id": "prussianblue",
-    "packageName": "slidev-theme-prussianblue",
-    "name": "Prussianblue",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-prussianblue?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-prussianblue)",
-    "author": "isaacc",
-    "version": "0.0.9",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-prussianblue",
+    "id": "inloopstudio/inloopstudio",
+    "packageName": "@inloopstudio/slidev-theme-inloopstudio",
+    "name": "Inloopstudio Inloopstudio",
+    "description": "Brand‑accurate Slidev theme for Inloop Studio (fonts, colors, logo, backgrounds), using a clear README structure similar to neversink.",
+    "author": "huydtt",
+    "version": "0.1.1",
+    "npmUrl": "https://www.npmjs.com/package/@inloopstudio/slidev-theme-inloopstudio",
     "screenshots": [],
-    "updatedAt": "2023-11-17T02:21:48.923Z",
+    "updatedAt": "2025-11-17T05:38:17.021Z",
     "keywords": [
       "slidev-theme",
-      "slidev"
+      "slidev",
+      "inloop",
+      "brand"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:37.476Z"
+    "fetchedAt": "2026-02-05T19:00:17.149Z"
   },
   {
     "id": "ucas",
@@ -2836,7 +2802,41 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:37.476Z"
+    "fetchedAt": "2026-02-05T19:00:17.149Z"
+  },
+  {
+    "id": "giec",
+    "packageName": "slidev-theme-giec",
+    "name": "Giec",
+    "description": "<!--  * @Author: Ajie  * @Date: 2024-10-16 12:11:40  * @LastEditTime: 2024-10-16 14:08:51  * @LastEditors: Ajie  * @Description:   * @FilePath: \\slidev-theme-ustc-master\\README.md  * 站在巨人的肩膀上，做正确的事 --> # slidev-theme-ustc",
+    "author": "ajie528",
+    "version": "1.0.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-giec",
+    "screenshots": [],
+    "updatedAt": "2024-10-16T07:27:28.282Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:00:17.149Z"
+  },
+  {
+    "id": "prussianblue",
+    "packageName": "slidev-theme-prussianblue",
+    "name": "Prussianblue",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-prussianblue?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-prussianblue)",
+    "author": "isaacc",
+    "version": "0.0.9",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-prussianblue",
+    "screenshots": [],
+    "updatedAt": "2023-11-17T02:21:48.923Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:00:17.149Z"
   },
   {
     "id": "lamda",
@@ -2858,7 +2858,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:37.476Z"
+    "fetchedAt": "2026-02-05T19:00:17.150Z"
   },
   {
     "id": "eclipse",
@@ -2875,7 +2875,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:52.139Z"
+    "fetchedAt": "2026-02-05T19:00:31.350Z"
   },
   {
     "id": "code-sugar/portrait",
@@ -2897,7 +2897,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:15:52.139Z"
+    "fetchedAt": "2026-02-05T19:00:31.350Z"
   },
   {
     "id": "vatisbh",
@@ -2914,7 +2914,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:06.766Z"
+    "fetchedAt": "2026-02-05T19:00:45.450Z"
   },
   {
     "id": "minerva",
@@ -2931,7 +2931,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:06.766Z"
+    "fetchedAt": "2026-02-05T19:00:45.450Z"
   },
   {
     "id": "@slidex/theme-seriph",
@@ -2953,7 +2953,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:06.766Z"
+    "fetchedAt": "2026-02-05T19:00:45.450Z"
   },
   {
     "id": "ppt",
@@ -2970,7 +2970,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:17.928Z"
+    "fetchedAt": "2026-02-05T19:00:56.399Z"
   },
   {
     "id": "mrtnvh",
@@ -2987,7 +2987,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:17.929Z"
+    "fetchedAt": "2026-02-05T19:00:56.399Z"
   },
   {
     "id": "yettoapp/yetto",
@@ -3004,7 +3004,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:17.929Z"
+    "fetchedAt": "2026-02-05T19:00:56.399Z"
   },
   {
     "id": "ovgu",
@@ -3022,7 +3022,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:17.929Z"
+    "fetchedAt": "2026-02-05T19:00:56.399Z"
   },
   {
     "id": "monomi",
@@ -3039,7 +3039,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:18.429Z"
+    "fetchedAt": "2026-02-05T19:00:56.899Z"
   },
   {
     "id": "generic",
@@ -3056,7 +3056,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:18.429Z"
+    "fetchedAt": "2026-02-05T19:00:56.899Z"
   },
   {
     "id": "renuo",
@@ -3087,7 +3087,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:18.430Z"
+    "fetchedAt": "2026-02-05T19:00:56.900Z"
   },
   {
     "id": "denkwerk",
@@ -3104,7 +3104,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:19.127Z"
+    "fetchedAt": "2026-02-05T19:00:57.558Z"
   },
   {
     "id": "joyful",
@@ -3121,7 +3121,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:19.127Z"
+    "fetchedAt": "2026-02-05T19:00:57.558Z"
   },
   {
     "id": "andyjjrt",
@@ -3143,24 +3143,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:19.127Z"
-  },
-  {
-    "id": "kotlin",
-    "packageName": "slidev-theme-kotlin",
-    "name": "Kotlin",
-    "description": "A [Slidev](https://sli.dev) theme designed for Kotlin presentations, featuring the Kodee mascot with smooth animations and Kotlin-optimized syntax highlighting.",
-    "author": "vergauwen.simon",
-    "version": "0.0.8",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-kotlin",
-    "screenshots": [],
-    "updatedAt": "2025-10-21T08:02:59.905Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:33.717Z"
+    "fetchedAt": "2026-02-05T19:00:57.558Z"
   },
   {
     "id": "kintone",
@@ -3183,7 +3166,7 @@
       "kintone"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:33.717Z"
+    "fetchedAt": "2026-02-05T19:01:11.717Z"
   },
   {
     "id": "netlify",
@@ -3200,7 +3183,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:48.004Z"
+    "fetchedAt": "2026-02-05T19:01:25.923Z"
+  },
+  {
+    "id": "kotlin",
+    "packageName": "slidev-theme-kotlin",
+    "name": "Kotlin",
+    "description": "A [Slidev](https://sli.dev) theme designed for Kotlin presentations, featuring the Kodee mascot with smooth animations and Kotlin-optimized syntax highlighting.",
+    "author": "vergauwen.simon",
+    "version": "0.0.8",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-kotlin",
+    "screenshots": [],
+    "updatedAt": "2025-10-21T08:02:59.905Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:01:25.923Z"
   },
   {
     "id": "sprinteins",
@@ -3217,7 +3217,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:48.004Z"
+    "fetchedAt": "2026-02-05T19:01:25.923Z"
   },
   {
     "id": "patrickdronk",
@@ -3234,7 +3234,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:48.004Z"
+    "fetchedAt": "2026-02-05T19:01:25.923Z"
   },
   {
     "id": "anny-theme",
@@ -3251,7 +3251,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:48.004Z"
+    "fetchedAt": "2026-02-05T19:01:25.923Z"
   },
   {
     "id": "thelearningdev",
@@ -3273,7 +3273,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:16:48.004Z"
+    "fetchedAt": "2026-02-05T19:01:25.923Z"
   },
   {
     "id": "optiop-theme",
@@ -3289,7 +3289,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.548Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "neat",
@@ -3306,7 +3306,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.548Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "bitnate",
@@ -3323,7 +3323,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.548Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "orlando",
@@ -3340,7 +3340,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.548Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "klef/klefpj",
@@ -3357,7 +3357,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.548Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "webhh",
@@ -3374,7 +3374,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.548Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "hatch-corporate",
@@ -3402,24 +3402,7 @@
       "components"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:02.549Z"
-  },
-  {
-    "id": "ox",
-    "packageName": "slidev-theme-ox",
-    "name": "Ox",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-ox?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-ox)",
-    "author": "jjacobsohn",
-    "version": "0.0.3",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-ox",
-    "screenshots": [],
-    "updatedAt": "2023-12-03T23:43:41.232Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:19.888Z"
+    "fetchedAt": "2026-02-05T19:01:40.174Z"
   },
   {
     "id": "shadow",
@@ -3436,7 +3419,24 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:19.888Z"
+    "fetchedAt": "2026-02-05T19:01:57.110Z"
+  },
+  {
+    "id": "ox",
+    "packageName": "slidev-theme-ox",
+    "name": "Ox",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-ox?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-ox)",
+    "author": "jjacobsohn",
+    "version": "0.0.3",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-ox",
+    "screenshots": [],
+    "updatedAt": "2023-12-03T23:43:41.232Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:01:57.110Z"
   },
   {
     "id": "mono",
@@ -3454,7 +3454,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:19.888Z"
+    "fetchedAt": "2026-02-05T19:01:57.110Z"
   },
   {
     "id": "poli-usp",
@@ -3471,7 +3471,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:19.888Z"
+    "fetchedAt": "2026-02-05T19:01:57.110Z"
   },
   {
     "id": "kolaente-bold",
@@ -3493,7 +3493,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:19.888Z"
+    "fetchedAt": "2026-02-05T19:01:57.110Z"
   },
   {
     "id": "nisl",
@@ -3512,7 +3512,7 @@
       "slidev-theme-NISL"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:34.675Z"
+    "fetchedAt": "2026-02-05T19:02:11.224Z"
   },
   {
     "id": "academic-hehaorui",
@@ -3538,7 +3538,7 @@
       "slidev-theme-academic-hehaorui"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:34.675Z"
+    "fetchedAt": "2026-02-05T19:02:11.224Z"
   },
   {
     "id": "fhaachen",
@@ -3560,7 +3560,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:17:49.485Z"
+    "fetchedAt": "2026-02-05T19:02:25.512Z"
   },
   {
     "id": "jhq",
@@ -3577,7 +3577,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:04.053Z"
+    "fetchedAt": "2026-02-05T19:02:39.633Z"
   },
   {
     "id": "majin",
@@ -3608,7 +3608,7 @@
       "cards"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:04.053Z"
+    "fetchedAt": "2026-02-05T19:02:39.633Z"
   },
   {
     "id": "@mehlium/husbanken-slidev-theme",
@@ -3630,7 +3630,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:18.567Z"
+    "fetchedAt": "2026-02-05T19:02:53.689Z"
   },
   {
     "id": "bsc",
@@ -3647,7 +3647,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:33.085Z"
+    "fetchedAt": "2026-02-05T19:03:07.661Z"
   },
   {
     "id": "oceanic-next",
@@ -3663,7 +3663,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:33.085Z"
+    "fetchedAt": "2026-02-05T19:03:07.661Z"
   },
   {
     "id": "horizon",
@@ -3685,7 +3685,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:33.085Z"
+    "fetchedAt": "2026-02-05T19:03:07.662Z"
   },
   {
     "id": "vuestorefront",
@@ -3710,7 +3710,7 @@
       "slidev-vuestorefront"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:44.523Z"
+    "fetchedAt": "2026-02-05T19:03:18.658Z"
   },
   {
     "id": "jolicode",
@@ -3727,7 +3727,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:55.909Z"
+    "fetchedAt": "2026-02-05T19:03:29.722Z"
   },
   {
     "id": "envek",
@@ -3744,7 +3744,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:55.909Z"
+    "fetchedAt": "2026-02-05T19:03:29.722Z"
   },
   {
     "id": "damienfern",
@@ -3761,7 +3761,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:55.909Z"
+    "fetchedAt": "2026-02-05T19:03:29.722Z"
   },
   {
     "id": "@posva/slidev-theme",
@@ -3784,7 +3784,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:18:55.909Z"
+    "fetchedAt": "2026-02-05T19:03:29.723Z"
   },
   {
     "id": "alltech",
@@ -3801,7 +3801,85 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:19:13.254Z"
+    "fetchedAt": "2026-02-05T19:03:46.594Z"
+  },
+  {
+    "id": "trustedai",
+    "packageName": "slidev-theme-trustedai",
+    "name": "Trustedai",
+    "description": "A TrustedAI theme for Slidev presentations",
+    "author": "thientquang",
+    "authorUrl": "https://github.com/trustedai",
+    "version": "1.0.0",
+    "repositoryUrl": "git+https://github.com/trustedai/slidev-theme-trustedai",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-trustedai",
+    "demoUrl": "https://github.com/trustedai/slidev-theme-trustedai#readme",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/trustedai/slidev-theme-trustedai"
+    ],
+    "updatedAt": "2025-08-27T06:18:23.111Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:03:46.594Z"
+  },
+  {
+    "id": "martinelli/martinelli",
+    "packageName": "@martinelli/slidev-theme-martinelli",
+    "name": "Martinelli Martinelli",
+    "description": "Martinelli theme for Slidev",
+    "author": "simasch",
+    "authorUrl": "https://github.com/martinelli.ch",
+    "version": "0.3.3",
+    "repositoryUrl": "git+https://github.com/martinelli.ch/slidev-theme-martinelli",
+    "npmUrl": "https://www.npmjs.com/package/@martinelli/slidev-theme-martinelli",
+    "demoUrl": "https://martinelli.ch",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/martinelli.ch/slidev-theme-martinelli"
+    ],
+    "updatedAt": "2024-10-09T12:21:43.780Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:04:03.420Z"
+  },
+  {
+    "id": "tpm",
+    "packageName": "slidev-theme-tpm",
+    "name": "Tpm",
+    "description": "TPM Branded slide template for use with slidev",
+    "author": "unnoticed7463",
+    "version": "1.0.2",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-tpm",
+    "screenshots": [],
+    "updatedAt": "2024-03-24T02:39:15.923Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:04:20.289Z"
+  },
+  {
+    "id": "kage",
+    "packageName": "slidev-theme-kage",
+    "name": "Kage",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-kage1020?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-kage1020)",
+    "author": "kage1020",
+    "version": "0.0.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-kage",
+    "screenshots": [],
+    "updatedAt": "2024-03-17T14:53:33.336Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:04:20.289Z"
   },
   {
     "id": "platformatic",
@@ -3818,7 +3896,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:19:13.254Z"
+    "fetchedAt": "2026-02-05T19:04:20.289Z"
   },
   {
     "id": "penguin--kevin-fabre",
@@ -3841,7 +3919,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:19:13.254Z"
+    "fetchedAt": "2026-02-05T19:04:20.289Z"
   },
   {
     "id": "itmo",
@@ -3863,85 +3941,51 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:19:13.970Z"
+    "fetchedAt": "2026-02-05T19:04:20.978Z"
   },
   {
-    "id": "trustedai",
-    "packageName": "slidev-theme-trustedai",
-    "name": "Trustedai",
-    "description": "A TrustedAI theme for Slidev presentations",
-    "author": "thientquang",
-    "authorUrl": "https://github.com/trustedai",
-    "version": "1.0.0",
-    "repositoryUrl": "git+https://github.com/trustedai/slidev-theme-trustedai",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-trustedai",
-    "demoUrl": "https://github.com/trustedai/slidev-theme-trustedai#readme",
+    "id": "binlab",
+    "packageName": "slidev-theme-binlab",
+    "name": "Binlab",
+    "description": "A geek-style terminal theme for Slidev",
+    "author": "pandaos1234",
+    "authorUrl": "https://github.com/P4nda0s",
+    "version": "0.1.0",
+    "repositoryUrl": "git+https://github.com/P4nda0s/slidev-theme-binlab",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-binlab",
+    "demoUrl": "https://github.com/P4nda0s/slidev-theme-binlab#readme",
     "screenshots": [
-      "https://opengraph.githubassets.com/1/trustedai/slidev-theme-trustedai"
+      "https://opengraph.githubassets.com/1/P4nda0s/slidev-theme-binlab"
     ],
-    "updatedAt": "2025-08-27T06:18:23.111Z",
+    "updatedAt": "2025-10-09T12:53:21.126Z",
     "keywords": [
       "slidev-theme",
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:19:30.550Z"
+    "fetchedAt": "2026-02-05T19:04:35.168Z"
   },
   {
-    "id": "martinelli/martinelli",
-    "packageName": "@martinelli/slidev-theme-martinelli",
-    "name": "Martinelli Martinelli",
-    "description": "Martinelli theme for Slidev",
-    "author": "simasch",
-    "authorUrl": "https://github.com/martinelli.ch",
-    "version": "0.3.3",
-    "repositoryUrl": "git+https://github.com/martinelli.ch/slidev-theme-martinelli",
-    "npmUrl": "https://www.npmjs.com/package/@martinelli/slidev-theme-martinelli",
-    "demoUrl": "https://martinelli.ch",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/martinelli.ch/slidev-theme-martinelli"
-    ],
-    "updatedAt": "2024-10-09T12:21:43.780Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:19:47.766Z"
-  },
-  {
-    "id": "tpm",
-    "packageName": "slidev-theme-tpm",
-    "name": "Tpm",
-    "description": "TPM Branded slide template for use with slidev",
-    "author": "unnoticed7463",
-    "version": "1.0.2",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-tpm",
-    "screenshots": [],
-    "updatedAt": "2024-03-24T02:39:15.923Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
-  },
-  {
-    "id": "kage",
-    "packageName": "slidev-theme-kage",
-    "name": "Kage",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-kage1020?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-kage1020)",
-    "author": "kage1020",
+    "id": "excalifont",
+    "packageName": "slidev-theme-excalifont",
+    "name": "Excalifont",
+    "description": "> [!CAUTION] > This is a fork of (filiphric/slidev-theme-excali-slide)[https://github.com/filiphric/slidev-theme-excali-slide] intended for personal usage. > The primary difference is that this theme was modified to use excalidraw's new (excalifont)[https",
+    "author": "theo-steiner",
+    "authorUrl": "https://github.com/theo-steiner",
     "version": "0.0.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-kage",
-    "screenshots": [],
-    "updatedAt": "2024-03-17T14:53:33.336Z",
+    "repositoryUrl": "git+https://github.com/theo-steiner/slidev-theme-excalifont",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-excalifont",
+    "demoUrl": "https://github.com/theo-steiner/slidev-theme-excalifont#readme",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/theo-steiner/slidev-theme-excalifont"
+    ],
+    "updatedAt": "2025-04-24T10:06:26.507Z",
     "keywords": [
       "slidev-theme",
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:04:49.243Z"
   },
   {
     "id": "roh",
@@ -3958,7 +4002,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:05:03.426Z"
   },
   {
     "id": "dyte-vaibhavshn",
@@ -3975,7 +4019,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:05:03.426Z"
   },
   {
     "id": "polyu",
@@ -3995,7 +4039,7 @@
       "hong kong"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:05:03.426Z"
   },
   {
     "id": "klef/klef",
@@ -4012,7 +4056,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:05:03.426Z"
   },
   {
     "id": "@martinelli/theme-slidev",
@@ -4030,7 +4074,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:05:03.426Z"
   },
   {
     "id": "ynn",
@@ -4052,7 +4096,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:05.023Z"
+    "fetchedAt": "2026-02-05T19:05:03.426Z"
   },
   {
     "id": "test",
@@ -4074,7 +4118,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:16.324Z"
+    "fetchedAt": "2026-02-05T19:05:14.435Z"
   },
   {
     "id": "imatech",
@@ -4099,7 +4143,7 @@
       "slidev-theme-imatech"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:32.921Z"
+    "fetchedAt": "2026-02-05T19:05:30.345Z"
   },
   {
     "id": "vatisv2",
@@ -4116,125 +4160,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:47.562Z"
-  },
-  {
-    "id": "excalifont",
-    "packageName": "slidev-theme-excalifont",
-    "name": "Excalifont",
-    "description": "> [!CAUTION] > This is a fork of (filiphric/slidev-theme-excali-slide)[https://github.com/filiphric/slidev-theme-excali-slide] intended for personal usage. > The primary difference is that this theme was modified to use excalidraw's new (excalifont)[https",
-    "author": "theo-steiner",
-    "authorUrl": "https://github.com/theo-steiner",
-    "version": "0.0.1",
-    "repositoryUrl": "git+https://github.com/theo-steiner/slidev-theme-excalifont",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-excalifont",
-    "demoUrl": "https://github.com/theo-steiner/slidev-theme-excalifont#readme",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/theo-steiner/slidev-theme-excalifont"
-    ],
-    "updatedAt": "2025-04-24T10:06:26.507Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:20:47.562Z"
-  },
-  {
-    "id": "binlab",
-    "packageName": "slidev-theme-binlab",
-    "name": "Binlab",
-    "description": "A geek-style terminal theme for Slidev",
-    "author": "pandaos1234",
-    "authorUrl": "https://github.com/P4nda0s",
-    "version": "0.1.0",
-    "repositoryUrl": "git+https://github.com/P4nda0s/slidev-theme-binlab",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-binlab",
-    "demoUrl": "https://github.com/P4nda0s/slidev-theme-binlab#readme",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/P4nda0s/slidev-theme-binlab"
-    ],
-    "updatedAt": "2025-10-09T12:53:21.126Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:02.155Z"
-  },
-  {
-    "id": "adventiel",
-    "packageName": "slidev-theme-adventiel",
-    "name": "Adventiel",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-adventiel?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-adventiel)",
-    "author": "christian.german",
-    "version": "0.0.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-adventiel",
-    "screenshots": [],
-    "updatedAt": "2022-10-02T09:57:41.249Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:16.601Z"
-  },
-  {
-    "id": "dyte",
-    "packageName": "slidev-theme-dyte",
-    "name": "Dyte",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-dyte?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-dyte)",
-    "author": "sphericalkat",
-    "authorUrl": "https://github.com/dyte-in",
-    "version": "0.0.4",
-    "repositoryUrl": "git+https://github.com/dyte-in/slidev-theme",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-dyte",
-    "demoUrl": "https://github.com/dyte-in/slidev-theme#readme",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/dyte-in/slidev-theme"
-    ],
-    "updatedAt": "2022-10-06T05:41:42.122Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:16.601Z"
-  },
-  {
-    "id": "elysia",
-    "packageName": "slidev-theme-elysia",
-    "name": "Elysia",
-    "description": "Elysia theme for slidev",
-    "author": "skravets",
-    "version": "0.0.3",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-elysia",
-    "screenshots": [],
-    "updatedAt": "2024-04-19T17:23:49.441Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev",
-      "elysia"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.308Z"
-  },
-  {
-    "id": "mazluc",
-    "packageName": "slidev-theme-mazluc",
-    "name": "Mazluc",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-mazluc-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-mazluc-slidev-theme)",
-    "author": "mazluc",
-    "version": "1.0.0",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-mazluc",
-    "screenshots": [],
-    "updatedAt": "2025-05-27T13:57:42.591Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.308Z"
+    "fetchedAt": "2026-02-05T19:05:44.451Z"
   },
   {
     "id": "aliyun",
@@ -4251,7 +4177,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.308Z"
+    "fetchedAt": "2026-02-05T19:05:44.451Z"
   },
   {
     "id": "neon",
@@ -4279,7 +4205,7 @@
       "vilaboim"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.308Z"
+    "fetchedAt": "2026-02-05T19:05:44.451Z"
   },
   {
     "id": "valtech",
@@ -4297,7 +4223,81 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.972Z"
+    "fetchedAt": "2026-02-05T19:05:45.141Z"
+  },
+  {
+    "id": "adventiel",
+    "packageName": "slidev-theme-adventiel",
+    "name": "Adventiel",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-adventiel?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-adventiel)",
+    "author": "christian.german",
+    "version": "0.0.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-adventiel",
+    "screenshots": [],
+    "updatedAt": "2022-10-02T09:57:41.249Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:05:45.141Z"
+  },
+  {
+    "id": "dyte",
+    "packageName": "slidev-theme-dyte",
+    "name": "Dyte",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-dyte?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-dyte)",
+    "author": "sphericalkat",
+    "authorUrl": "https://github.com/dyte-in",
+    "version": "0.0.4",
+    "repositoryUrl": "git+https://github.com/dyte-in/slidev-theme",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-dyte",
+    "demoUrl": "https://github.com/dyte-in/slidev-theme#readme",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/dyte-in/slidev-theme"
+    ],
+    "updatedAt": "2022-10-06T05:41:42.122Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:05:45.141Z"
+  },
+  {
+    "id": "elysia",
+    "packageName": "slidev-theme-elysia",
+    "name": "Elysia",
+    "description": "Elysia theme for slidev",
+    "author": "skravets",
+    "version": "0.0.3",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-elysia",
+    "screenshots": [],
+    "updatedAt": "2024-04-19T17:23:49.441Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev",
+      "elysia"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:06:02.553Z"
+  },
+  {
+    "id": "mazluc",
+    "packageName": "slidev-theme-mazluc",
+    "name": "Mazluc",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-mazluc-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-mazluc-slidev-theme)",
+    "author": "mazluc",
+    "version": "1.0.0",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-mazluc",
+    "screenshots": [],
+    "updatedAt": "2025-05-27T13:57:42.591Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:06:02.553Z"
   },
   {
     "id": "queenslab",
@@ -4314,7 +4314,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.972Z"
+    "fetchedAt": "2026-02-05T19:06:02.553Z"
   },
   {
     "id": "anova-basic",
@@ -4336,7 +4336,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:34.972Z"
+    "fetchedAt": "2026-02-05T19:06:02.553Z"
   },
   {
     "id": "ustc",
@@ -4353,7 +4353,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:52.219Z"
+    "fetchedAt": "2026-02-05T19:06:19.417Z"
   },
   {
     "id": "hexo",
@@ -4370,7 +4370,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:52.219Z"
+    "fetchedAt": "2026-02-05T19:06:19.417Z"
   },
   {
     "id": "excelsea",
@@ -4387,7 +4387,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:52.219Z"
+    "fetchedAt": "2026-02-05T19:06:19.417Z"
   },
   {
     "id": "cxphoenix/isip.hs",
@@ -4410,7 +4410,7 @@
       "isip-hs"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:21:52.219Z"
+    "fetchedAt": "2026-02-05T19:06:19.417Z"
   },
   {
     "id": "guara",
@@ -4426,7 +4426,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:06.739Z"
+    "fetchedAt": "2026-02-05T19:06:33.641Z"
   },
   {
     "id": "project-documentation",
@@ -4443,7 +4443,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:06.739Z"
+    "fetchedAt": "2026-02-05T19:06:33.641Z"
   },
   {
     "id": "papershare",
@@ -4460,7 +4460,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:06.739Z"
+    "fetchedAt": "2026-02-05T19:06:33.641Z"
   },
   {
     "id": "sailing-innocent/nju-thesis",
@@ -4477,7 +4477,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:06.739Z"
+    "fetchedAt": "2026-02-05T19:06:33.641Z"
   },
   {
     "id": "showy",
@@ -4499,7 +4499,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:06.739Z"
+    "fetchedAt": "2026-02-05T19:06:33.641Z"
   },
   {
     "id": "2024-wadella",
@@ -4516,7 +4516,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.000Z"
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
   },
   {
     "id": "stordahl",
@@ -4533,7 +4533,58 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.000Z"
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
+  },
+  {
+    "id": "mtximu",
+    "packageName": "slidev-theme-mtximu",
+    "name": "Mtximu",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-starter?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-starter)",
+    "author": "mataoxun",
+    "version": "0.0.0",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-mtximu",
+    "screenshots": [],
+    "updatedAt": "2022-04-29T11:07:02.072Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
+  },
+  {
+    "id": "divriots",
+    "packageName": "slidev-theme-divriots",
+    "name": "Divriots",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-divRIOTS-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-divRIOTS-slidev-theme)",
+    "author": "m4dz",
+    "version": "0.1.0",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-divriots",
+    "screenshots": [],
+    "updatedAt": "2022-02-07T17:12:26.305Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
+  },
+  {
+    "id": "triumph",
+    "packageName": "slidev-theme-triumph",
+    "name": "Triumph",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-triumph?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-triumph)",
+    "author": "bradentriumph",
+    "version": "0.0.0",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-triumph",
+    "screenshots": [],
+    "updatedAt": "2024-05-17T16:09:17.885Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
   },
   {
     "id": "101-rs",
@@ -4552,7 +4603,7 @@
       "Rust 101"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.000Z"
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
   },
   {
     "id": "vuetiful-unocss",
@@ -4581,7 +4632,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.000Z"
+    "fetchedAt": "2026-02-05T19:06:50.486Z"
   },
   {
     "id": "nahco314",
@@ -4598,58 +4649,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.696Z"
-  },
-  {
-    "id": "mtximu",
-    "packageName": "slidev-theme-mtximu",
-    "name": "Mtximu",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-starter?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-starter)",
-    "author": "mataoxun",
-    "version": "0.0.0",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-mtximu",
-    "screenshots": [],
-    "updatedAt": "2022-04-29T11:07:02.072Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.696Z"
-  },
-  {
-    "id": "divriots",
-    "packageName": "slidev-theme-divriots",
-    "name": "Divriots",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-divRIOTS-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-divRIOTS-slidev-theme)",
-    "author": "m4dz",
-    "version": "0.1.0",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-divriots",
-    "screenshots": [],
-    "updatedAt": "2022-02-07T17:12:26.305Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.696Z"
-  },
-  {
-    "id": "triumph",
-    "packageName": "slidev-theme-triumph",
-    "name": "Triumph",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-triumph?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-triumph)",
-    "author": "bradentriumph",
-    "version": "0.0.0",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-triumph",
-    "screenshots": [],
-    "updatedAt": "2024-05-17T16:09:17.885Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.696Z"
+    "fetchedAt": "2026-02-05T19:06:51.149Z"
   },
   {
     "id": "hpenguin",
@@ -4672,7 +4672,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:24.696Z"
+    "fetchedAt": "2026-02-05T19:06:51.149Z"
   },
   {
     "id": "cuc",
@@ -4689,7 +4689,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:25.601Z"
+    "fetchedAt": "2026-02-05T19:06:52.006Z"
   },
   {
     "id": "myownprussianblue",
@@ -4706,7 +4706,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:25.601Z"
+    "fetchedAt": "2026-02-05T19:06:52.006Z"
   },
   {
     "id": "supsistudent",
@@ -4725,63 +4725,7 @@
       "supsistudent"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:25.601Z"
-  },
-  {
-    "id": "poke",
-    "packageName": "slidev-theme-poke",
-    "name": "Poke",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-poke?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-kintone)",
-    "author": "pokemon36",
-    "authorUrl": "https://github.com/GuSanle",
-    "version": "0.1.3",
-    "repositoryUrl": "git+https://github.com/GuSanle/slidev-theme-poke",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-poke",
-    "demoUrl": "https://github.com/GuSanle",
-    "screenshots": [
-      "https://opengraph.githubassets.com/1/GuSanle/slidev-theme-poke"
-    ],
-    "updatedAt": "2025-01-04T00:54:26.644Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:25.601Z"
-  },
-  {
-    "id": "secsi",
-    "packageName": "slidev-theme-secsi",
-    "name": "Secsi",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-secsi?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-secsi)",
-    "author": "giper",
-    "version": "0.0.1",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-secsi",
-    "screenshots": [],
-    "updatedAt": "2024-02-28T17:51:16.785Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:40.085Z"
-  },
-  {
-    "id": "bolt",
-    "packageName": "slidev-theme-bolt",
-    "name": "Bolt",
-    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-bolt?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-bolt)",
-    "author": "magnumpanda",
-    "version": "0.2.0",
-    "npmUrl": "https://www.npmjs.com/package/slidev-theme-bolt",
-    "screenshots": [],
-    "updatedAt": "2022-12-09T20:14:08.746Z",
-    "keywords": [
-      "slidev-theme",
-      "slidev"
-    ],
-    "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:40.085Z"
+    "fetchedAt": "2026-02-05T19:06:52.006Z"
   },
   {
     "id": "vuetiful-uno",
@@ -4810,7 +4754,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:40.085Z"
+    "fetchedAt": "2026-02-05T19:06:52.006Z"
   },
   {
     "id": "friendly",
@@ -4827,7 +4771,63 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:40.744Z"
+    "fetchedAt": "2026-02-05T19:06:52.614Z"
+  },
+  {
+    "id": "poke",
+    "packageName": "slidev-theme-poke",
+    "name": "Poke",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-poke?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-kintone)",
+    "author": "pokemon36",
+    "authorUrl": "https://github.com/GuSanle",
+    "version": "0.1.3",
+    "repositoryUrl": "git+https://github.com/GuSanle/slidev-theme-poke",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-poke",
+    "demoUrl": "https://github.com/GuSanle",
+    "screenshots": [
+      "https://opengraph.githubassets.com/1/GuSanle/slidev-theme-poke"
+    ],
+    "updatedAt": "2025-01-04T00:54:26.644Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:06:52.614Z"
+  },
+  {
+    "id": "secsi",
+    "packageName": "slidev-theme-secsi",
+    "name": "Secsi",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-secsi?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-secsi)",
+    "author": "giper",
+    "version": "0.0.1",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-secsi",
+    "screenshots": [],
+    "updatedAt": "2024-02-28T17:51:16.785Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:07:06.924Z"
+  },
+  {
+    "id": "bolt",
+    "packageName": "slidev-theme-bolt",
+    "name": "Bolt",
+    "description": "[![NPM version](https://img.shields.io/npm/v/slidev-theme-bolt?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-bolt)",
+    "author": "magnumpanda",
+    "version": "0.2.0",
+    "npmUrl": "https://www.npmjs.com/package/slidev-theme-bolt",
+    "screenshots": [],
+    "updatedAt": "2022-12-09T20:14:08.746Z",
+    "keywords": [
+      "slidev-theme",
+      "slidev"
+    ],
+    "isOfficial": false,
+    "fetchedAt": "2026-02-05T19:07:06.924Z"
   },
   {
     "id": "tokyo-python",
@@ -4844,6 +4844,6 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-05T13:22:40.744Z"
+    "fetchedAt": "2026-02-05T19:07:06.924Z"
   }
 ]
