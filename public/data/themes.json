@@ -19,7 +19,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-07T06:40:52.272Z"
+    "fetchedAt": "2026-02-07T12:47:11.722Z"
   },
   {
     "id": "seriph",
@@ -41,7 +41,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-07T06:41:03.457Z"
+    "fetchedAt": "2026-02-07T12:47:22.517Z"
   },
   {
     "id": "ehl2022",
@@ -66,7 +66,7 @@
       "theme-ehl2022"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:41:14.528Z"
+    "fetchedAt": "2026-02-07T12:47:33.044Z"
   },
   {
     "id": "alchemmist",
@@ -89,7 +89,7 @@
       "alchemmist"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:41:28.693Z"
+    "fetchedAt": "2026-02-07T12:47:46.787Z"
   },
   {
     "id": "apple-basic",
@@ -111,7 +111,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-07T06:41:42.905Z"
+    "fetchedAt": "2026-02-07T12:48:00.645Z"
   },
   {
     "id": "academic",
@@ -137,7 +137,7 @@
       "slidev-theme-academic"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:41:53.998Z"
+    "fetchedAt": "2026-02-07T12:48:11.246Z"
   },
   {
     "id": "nmt",
@@ -154,7 +154,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:42:08.327Z"
+    "fetchedAt": "2026-02-07T12:48:24.946Z"
   },
   {
     "id": "neversink",
@@ -176,7 +176,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:42:08.327Z"
+    "fetchedAt": "2026-02-07T12:48:24.946Z"
   },
   {
     "id": "gtlabo",
@@ -201,7 +201,7 @@
       "vue"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:42:22.534Z"
+    "fetchedAt": "2026-02-07T12:48:38.614Z"
   },
   {
     "id": "bricks",
@@ -223,7 +223,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-07T06:42:36.776Z"
+    "fetchedAt": "2026-02-07T12:48:52.289Z"
   },
   {
     "id": "meetup",
@@ -247,7 +247,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:42:47.847Z"
+    "fetchedAt": "2026-02-07T12:49:02.947Z"
   },
   {
     "id": "scholarly",
@@ -274,7 +274,7 @@
       "latex"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:43:02.074Z"
+    "fetchedAt": "2026-02-07T12:49:16.802Z"
   },
   {
     "id": "tokyo-python",
@@ -291,7 +291,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:43:16.230Z"
+    "fetchedAt": "2026-02-07T12:49:30.416Z"
   },
   {
     "id": "shibainu",
@@ -313,7 +313,7 @@
       "slidev"
     ],
     "isOfficial": true,
-    "fetchedAt": "2026-02-07T06:43:16.230Z"
+    "fetchedAt": "2026-02-07T12:49:30.416Z"
   },
   {
     "id": "swiss-ai-hub",
@@ -341,7 +341,7 @@
       "dark-theme"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:43:27.184Z"
+    "fetchedAt": "2026-02-07T12:49:41.044Z"
   },
   {
     "id": "geist",
@@ -359,7 +359,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:43:41.528Z"
+    "fetchedAt": "2026-02-07T12:49:54.913Z"
   },
   {
     "id": "@openscript-ch/slidev-theme",
@@ -381,7 +381,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:43:41.528Z"
+    "fetchedAt": "2026-02-07T12:49:54.913Z"
   },
   {
     "id": "nearform",
@@ -403,7 +403,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:43:55.799Z"
+    "fetchedAt": "2026-02-07T12:50:08.787Z"
   },
   {
     "id": "penguin",
@@ -426,7 +426,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:10.063Z"
+    "fetchedAt": "2026-02-07T12:50:22.622Z"
   },
   {
     "id": "the-unnamed",
@@ -443,7 +443,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:10.806Z"
+    "fetchedAt": "2026-02-07T12:50:23.317Z"
   },
   {
     "id": "sp-days-framework/sykehuspartner",
@@ -465,7 +465,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:10.806Z"
+    "fetchedAt": "2026-02-07T12:50:23.317Z"
   },
   {
     "id": "echmo/aircraft1",
@@ -483,7 +483,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:28.441Z"
+    "fetchedAt": "2026-02-07T12:50:40.389Z"
   },
   {
     "id": "fossunited",
@@ -500,7 +500,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:28.941Z"
+    "fetchedAt": "2026-02-07T12:50:40.888Z"
   },
   {
     "id": "frankfurt",
@@ -529,7 +529,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:28.941Z"
+    "fetchedAt": "2026-02-07T12:50:40.889Z"
   },
   {
     "id": "light-icons",
@@ -555,7 +555,7 @@
       "light-icons"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:29.589Z"
+    "fetchedAt": "2026-02-07T12:50:41.514Z"
   },
   {
     "id": "cxphoenix/fhsh-isiphs-universal",
@@ -581,7 +581,7 @@
       "universal"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:43.993Z"
+    "fetchedAt": "2026-02-07T12:50:55.381Z"
   },
   {
     "id": "purplin",
@@ -605,7 +605,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:44:58.262Z"
+    "fetchedAt": "2026-02-07T12:51:09.197Z"
   },
   {
     "id": "echmo/robot-pre1",
@@ -623,7 +623,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:12.540Z"
+    "fetchedAt": "2026-02-07T12:51:22.918Z"
   },
   {
     "id": "rockdove",
@@ -640,7 +640,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:13.040Z"
+    "fetchedAt": "2026-02-07T12:51:23.419Z"
   },
   {
     "id": "csscade",
@@ -657,7 +657,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:13.040Z"
+    "fetchedAt": "2026-02-07T12:51:23.419Z"
   },
   {
     "id": "unicorn",
@@ -698,7 +698,7 @@
       "dawntraoz"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:13.040Z"
+    "fetchedAt": "2026-02-07T12:51:23.419Z"
   },
   {
     "id": "leilei-custom1",
@@ -715,7 +715,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:13.698Z"
+    "fetchedAt": "2026-02-07T12:51:24.085Z"
   },
   {
     "id": "gemini",
@@ -737,7 +737,7 @@
       "slidev-theme"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:13.698Z"
+    "fetchedAt": "2026-02-07T12:51:24.085Z"
   },
   {
     "id": "wordman",
@@ -754,7 +754,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:27.973Z"
+    "fetchedAt": "2026-02-07T12:51:37.807Z"
   },
   {
     "id": "one-purple-unicorn-pro",
@@ -776,7 +776,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:27.973Z"
+    "fetchedAt": "2026-02-07T12:51:37.807Z"
   },
   {
     "id": "excali-slide",
@@ -800,7 +800,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:42.243Z"
+    "fetchedAt": "2026-02-07T12:51:51.607Z"
   },
   {
     "id": "dataerai",
@@ -817,7 +817,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:56.514Z"
+    "fetchedAt": "2026-02-07T12:52:05.428Z"
   },
   {
     "id": "@workshops.de/slidev-theme",
@@ -835,7 +835,7 @@
       "workshops.de"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:56.514Z"
+    "fetchedAt": "2026-02-07T12:52:05.428Z"
   },
   {
     "id": "nord",
@@ -859,7 +859,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:45:56.514Z"
+    "fetchedAt": "2026-02-07T12:52:05.428Z"
   },
   {
     "id": "gravitek/gravitek",
@@ -882,7 +882,7 @@
       "gravitek"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:10.745Z"
+    "fetchedAt": "2026-02-07T12:52:19.076Z"
   },
   {
     "id": "ksick-dynatrace",
@@ -899,7 +899,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:25.088Z"
+    "fetchedAt": "2026-02-07T12:52:32.905Z"
   },
   {
     "id": "zero-slide",
@@ -916,7 +916,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:25.088Z"
+    "fetchedAt": "2026-02-07T12:52:32.905Z"
   },
   {
     "id": "diapositiv",
@@ -939,7 +939,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:25.088Z"
+    "fetchedAt": "2026-02-07T12:52:32.905Z"
   },
   {
     "id": "academic-schober",
@@ -965,7 +965,7 @@
       "slidev-theme-academic-schober"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:39.436Z"
+    "fetchedAt": "2026-02-07T12:52:46.601Z"
   },
   {
     "id": "vuetiful",
@@ -992,7 +992,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:53.760Z"
+    "fetchedAt": "2026-02-07T12:53:00.426Z"
   },
   {
     "id": "reveal",
@@ -1009,7 +1009,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:54.394Z"
+    "fetchedAt": "2026-02-07T12:53:01.048Z"
   },
   {
     "id": "eloc",
@@ -1031,7 +1031,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:46:54.394Z"
+    "fetchedAt": "2026-02-07T12:53:01.048Z"
   },
   {
     "id": "watabegg",
@@ -1058,7 +1058,7 @@
       "teaching"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:47:08.748Z"
+    "fetchedAt": "2026-02-07T12:53:14.908Z"
   },
   {
     "id": "greycat",
@@ -1075,7 +1075,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:47:23.150Z"
+    "fetchedAt": "2026-02-07T12:53:28.717Z"
   },
   {
     "id": "mokkapps",
@@ -1092,7 +1092,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:47:23.151Z"
+    "fetchedAt": "2026-02-07T12:53:28.717Z"
   },
   {
     "id": "ktym4a/ktym4a",
@@ -1117,7 +1117,7 @@
       "pastel"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:47:23.151Z"
+    "fetchedAt": "2026-02-07T12:53:28.717Z"
   },
   {
     "id": "hep",
@@ -1141,7 +1141,7 @@
       "HEP"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:47:37.519Z"
+    "fetchedAt": "2026-02-07T12:53:42.653Z"
   },
   {
     "id": "smile",
@@ -1165,7 +1165,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:47:51.867Z"
+    "fetchedAt": "2026-02-07T12:53:56.438Z"
   },
   {
     "id": "dfhi-isfates",
@@ -1189,7 +1189,7 @@
       "isfates"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:48:06.301Z"
+    "fetchedAt": "2026-02-07T12:54:10.412Z"
   },
   {
     "id": "zhozhoba",
@@ -1212,7 +1212,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:48:20.688Z"
+    "fetchedAt": "2026-02-07T12:54:24.178Z"
   },
   {
     "id": "ptna",
@@ -1236,7 +1236,7 @@
       "piano"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:48:34.976Z"
+    "fetchedAt": "2026-02-07T12:54:37.968Z"
   },
   {
     "id": "rich",
@@ -1260,7 +1260,7 @@
       "device mockup"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:48:49.291Z"
+    "fetchedAt": "2026-02-07T12:54:51.844Z"
   },
   {
     "id": "viplay",
@@ -1283,7 +1283,7 @@
       "viplay"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:48:49.291Z"
+    "fetchedAt": "2026-02-07T12:54:51.844Z"
   },
   {
     "id": "miracle",
@@ -1309,7 +1309,7 @@
       "slidev-theme-miracle"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:03.604Z"
+    "fetchedAt": "2026-02-07T12:55:05.728Z"
   },
   {
     "id": "sirius-college",
@@ -1331,7 +1331,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:17.906Z"
+    "fetchedAt": "2026-02-07T12:55:19.554Z"
   },
   {
     "id": "kalouk",
@@ -1353,7 +1353,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:32.226Z"
+    "fetchedAt": "2026-02-07T12:55:33.315Z"
   },
   {
     "id": "abicom",
@@ -1370,7 +1370,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:46.591Z"
+    "fetchedAt": "2026-02-07T12:55:47.135Z"
   },
   {
     "id": "iodigital",
@@ -1392,7 +1392,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:46.591Z"
+    "fetchedAt": "2026-02-07T12:55:47.135Z"
   },
   {
     "id": "webksde",
@@ -1411,7 +1411,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:57.785Z"
+    "fetchedAt": "2026-02-07T12:55:57.909Z"
   },
   {
     "id": "modern-tech",
@@ -1433,7 +1433,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:49:58.286Z"
+    "fetchedAt": "2026-02-07T12:55:58.409Z"
   },
   {
     "id": "datev-scc",
@@ -1458,7 +1458,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:14.389Z"
+    "fetchedAt": "2026-02-07T12:56:13.386Z"
   },
   {
     "id": "echmo/aircraft-pre1",
@@ -1476,7 +1476,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:15.047Z"
+    "fetchedAt": "2026-02-07T12:56:14.029Z"
   },
   {
     "id": "enolive",
@@ -1500,7 +1500,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:15.548Z"
+    "fetchedAt": "2026-02-07T12:56:14.530Z"
   },
   {
     "id": "aotoki/terraforming",
@@ -1517,7 +1517,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:29.918Z"
+    "fetchedAt": "2026-02-07T12:56:28.323Z"
   },
   {
     "id": "ycs77",
@@ -1534,7 +1534,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:29.918Z"
+    "fetchedAt": "2026-02-07T12:56:28.323Z"
   },
   {
     "id": "foamscience",
@@ -1551,7 +1551,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:29.918Z"
+    "fetchedAt": "2026-02-07T12:56:28.324Z"
   },
   {
     "id": "takahashi",
@@ -1569,7 +1569,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:29.918Z"
+    "fetchedAt": "2026-02-07T12:56:28.324Z"
   },
   {
     "id": "antfu-vite-conf-2023",
@@ -1592,7 +1592,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:30.419Z"
+    "fetchedAt": "2026-02-07T12:56:28.824Z"
   },
   {
     "id": "capgemini",
@@ -1610,7 +1610,7 @@
       "capgemini"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:44.933Z"
+    "fetchedAt": "2026-02-07T12:56:42.589Z"
   },
   {
     "id": "rainforest",
@@ -1627,7 +1627,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:44.933Z"
+    "fetchedAt": "2026-02-07T12:56:42.589Z"
   },
   {
     "id": "exam-prep",
@@ -1647,7 +1647,7 @@
       "teaching"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:44.933Z"
+    "fetchedAt": "2026-02-07T12:56:42.589Z"
   },
   {
     "id": "improving-25",
@@ -1673,7 +1673,7 @@
       "slides"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:44.933Z"
+    "fetchedAt": "2026-02-07T12:56:42.589Z"
   },
   {
     "id": "dualboot",
@@ -1693,7 +1693,7 @@
       "Dualboot Partners"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:59.210Z"
+    "fetchedAt": "2026-02-07T12:56:56.310Z"
   },
   {
     "id": "echmo/drone1",
@@ -1711,7 +1711,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:50:59.711Z"
+    "fetchedAt": "2026-02-07T12:56:56.811Z"
   },
   {
     "id": "hexlet",
@@ -1728,7 +1728,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:00.211Z"
+    "fetchedAt": "2026-02-07T12:56:57.312Z"
   },
   {
     "id": "penguin-ht",
@@ -1750,7 +1750,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:00.211Z"
+    "fetchedAt": "2026-02-07T12:56:57.312Z"
   },
   {
     "id": "aneo",
@@ -1767,7 +1767,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:17.836Z"
+    "fetchedAt": "2026-02-07T12:57:14.151Z"
   },
   {
     "id": "onecraft",
@@ -1786,7 +1786,7 @@
       "onecraft"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:17.836Z"
+    "fetchedAt": "2026-02-07T12:57:14.151Z"
   },
   {
     "id": "vatis",
@@ -1803,7 +1803,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:17.836Z"
+    "fetchedAt": "2026-02-07T12:57:14.151Z"
   },
   {
     "id": "mint",
@@ -1825,7 +1825,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:17.836Z"
+    "fetchedAt": "2026-02-07T12:57:14.151Z"
   },
   {
     "id": "storyblok",
@@ -1842,7 +1842,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:32.294Z"
+    "fetchedAt": "2026-02-07T12:57:27.839Z"
   },
   {
     "id": "mudssky/default",
@@ -1859,7 +1859,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:32.294Z"
+    "fetchedAt": "2026-02-07T12:57:27.839Z"
   },
   {
     "id": "flyingstudio",
@@ -1876,7 +1876,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:32.294Z"
+    "fetchedAt": "2026-02-07T12:57:27.839Z"
   },
   {
     "id": "kolaente-basic",
@@ -1893,7 +1893,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:32.295Z"
+    "fetchedAt": "2026-02-07T12:57:27.839Z"
   },
   {
     "id": "vue-i23",
@@ -1917,7 +1917,7 @@
       "krutiepatel"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:32.295Z"
+    "fetchedAt": "2026-02-07T12:57:27.839Z"
   },
   {
     "id": "arthistory",
@@ -1939,7 +1939,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:51:46.569Z"
+    "fetchedAt": "2026-02-07T12:57:41.665Z"
   },
   {
     "id": "easy",
@@ -1963,7 +1963,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:03.985Z"
+    "fetchedAt": "2026-02-07T12:57:58.484Z"
   },
   {
     "id": "teach-rs",
@@ -1983,7 +1983,7 @@
       "Rust 101"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "ink",
@@ -2000,7 +2000,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "oqtopus",
@@ -2020,7 +2020,7 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "hydra-conf",
@@ -2037,7 +2037,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "audioshake",
@@ -2054,7 +2054,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "neu",
@@ -2071,7 +2071,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "doctolib",
@@ -2089,7 +2089,7 @@
       "doctolib"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "spezi",
@@ -2106,7 +2106,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "bawue",
@@ -2125,7 +2125,7 @@
       "zsl"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "hal",
@@ -2142,7 +2142,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "cxphoenix/fhsh-aisp",
@@ -2166,7 +2166,7 @@
       "aisp"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:18.427Z"
+    "fetchedAt": "2026-02-07T12:58:12.348Z"
   },
   {
     "id": "linkedin-carousel",
@@ -2184,7 +2184,7 @@
       "linkedin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:32.729Z"
+    "fetchedAt": "2026-02-07T12:58:26.191Z"
   },
   {
     "id": "happy",
@@ -2202,7 +2202,7 @@
       "slidev-theme-happy"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:32.730Z"
+    "fetchedAt": "2026-02-07T12:58:26.191Z"
   },
   {
     "id": "@mehl/husbanken-slidev-theme",
@@ -2224,7 +2224,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:32.730Z"
+    "fetchedAt": "2026-02-07T12:58:26.191Z"
   },
   {
     "id": "cqupt",
@@ -2247,7 +2247,7 @@
       "cqupt"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:52:46.991Z"
+    "fetchedAt": "2026-02-07T12:58:40.091Z"
   },
   {
     "id": "touraine-tech",
@@ -2272,7 +2272,7 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:01.306Z"
+    "fetchedAt": "2026-02-07T12:58:53.901Z"
   },
   {
     "id": "martinelli",
@@ -2294,7 +2294,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:15.709Z"
+    "fetchedAt": "2026-02-07T12:59:07.852Z"
   },
   {
     "id": "ekino/ekino",
@@ -2312,7 +2312,7 @@
       "ekino"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:32.892Z"
+    "fetchedAt": "2026-02-07T12:59:24.391Z"
   },
   {
     "id": "atc",
@@ -2329,7 +2329,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:32.892Z"
+    "fetchedAt": "2026-02-07T12:59:24.391Z"
   },
   {
     "id": "dotnet-junkie",
@@ -2346,7 +2346,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:32.893Z"
+    "fetchedAt": "2026-02-07T12:59:24.392Z"
   },
   {
     "id": "zlict/zli",
@@ -2368,7 +2368,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:32.893Z"
+    "fetchedAt": "2026-02-07T12:59:24.392Z"
   },
   {
     "id": "codeg",
@@ -2386,7 +2386,7 @@
       "codeg"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:47.441Z"
+    "fetchedAt": "2026-02-07T12:59:38.345Z"
   },
   {
     "id": "bestony",
@@ -2403,7 +2403,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:47.441Z"
+    "fetchedAt": "2026-02-07T12:59:38.345Z"
   },
   {
     "id": "soba",
@@ -2428,7 +2428,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:47.441Z"
+    "fetchedAt": "2026-02-07T12:59:38.345Z"
   },
   {
     "id": "beta",
@@ -2445,7 +2445,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:48.092Z"
+    "fetchedAt": "2026-02-07T12:59:38.993Z"
   },
   {
     "id": "webksde/webksde",
@@ -2464,7 +2464,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:48.092Z"
+    "fetchedAt": "2026-02-07T12:59:38.993Z"
   },
   {
     "id": "neo",
@@ -2481,7 +2481,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:48.593Z"
+    "fetchedAt": "2026-02-07T12:59:39.493Z"
   },
   {
     "id": "dimsam",
@@ -2498,7 +2498,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:48.593Z"
+    "fetchedAt": "2026-02-07T12:59:39.493Z"
   },
   {
     "id": "ventus",
@@ -2517,7 +2517,7 @@
       "slidev-theme-ventus"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:48.593Z"
+    "fetchedAt": "2026-02-07T12:59:39.493Z"
   },
   {
     "id": "tum-unofficial",
@@ -2539,7 +2539,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:53:48.593Z"
+    "fetchedAt": "2026-02-07T12:59:39.493Z"
   },
   {
     "id": "nxyz",
@@ -2564,7 +2564,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:03.089Z"
+    "fetchedAt": "2026-02-07T12:59:53.599Z"
   },
   {
     "id": "shopee",
@@ -2581,7 +2581,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:17.409Z"
+    "fetchedAt": "2026-02-07T13:00:07.511Z"
   },
   {
     "id": "dasheng",
@@ -2610,7 +2610,7 @@
       "takahashi"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:17.409Z"
+    "fetchedAt": "2026-02-07T13:00:07.511Z"
   },
   {
     "id": "coston",
@@ -2637,7 +2637,7 @@
       "backgrounds"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:18.053Z"
+    "fetchedAt": "2026-02-07T13:00:08.136Z"
   },
   {
     "id": "yasio-dev",
@@ -2662,7 +2662,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:35.596Z"
+    "fetchedAt": "2026-02-07T13:00:25.049Z"
   },
   {
     "id": "@slidex/theme-default",
@@ -2679,7 +2679,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:50.008Z"
+    "fetchedAt": "2026-02-07T13:00:38.902Z"
   },
   {
     "id": "eavise",
@@ -2705,7 +2705,7 @@
       "template"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:54:50.008Z"
+    "fetchedAt": "2026-02-07T13:00:38.902Z"
   },
   {
     "id": "ninja",
@@ -2723,7 +2723,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:04.344Z"
+    "fetchedAt": "2026-02-07T13:00:52.699Z"
   },
   {
     "id": "@createiq/slidev-theme",
@@ -2759,7 +2759,7 @@
       "createiq"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:04.344Z"
+    "fetchedAt": "2026-02-07T13:00:52.699Z"
   },
   {
     "id": "flayyer",
@@ -2783,7 +2783,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:05.030Z"
+    "fetchedAt": "2026-02-07T13:00:53.310Z"
   },
   {
     "id": "inloopstudio/inloopstudio",
@@ -2802,7 +2802,7 @@
       "brand"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:19.329Z"
+    "fetchedAt": "2026-02-07T13:01:07.071Z"
   },
   {
     "id": "giec",
@@ -2819,7 +2819,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:19.330Z"
+    "fetchedAt": "2026-02-07T13:01:07.071Z"
   },
   {
     "id": "prussianblue",
@@ -2836,7 +2836,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:19.330Z"
+    "fetchedAt": "2026-02-07T13:01:07.071Z"
   },
   {
     "id": "ucas",
@@ -2853,7 +2853,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:19.330Z"
+    "fetchedAt": "2026-02-07T13:01:07.071Z"
   },
   {
     "id": "@posva/slidev-theme",
@@ -2876,7 +2876,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:19.330Z"
+    "fetchedAt": "2026-02-07T13:01:07.072Z"
   },
   {
     "id": "lamda",
@@ -2898,7 +2898,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:36.421Z"
+    "fetchedAt": "2026-02-07T13:01:23.614Z"
   },
   {
     "id": "eclipse",
@@ -2915,7 +2915,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:50.881Z"
+    "fetchedAt": "2026-02-07T13:01:37.531Z"
   },
   {
     "id": "code-sugar/portrait",
@@ -2937,7 +2937,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:55:50.881Z"
+    "fetchedAt": "2026-02-07T13:01:37.531Z"
   },
   {
     "id": "vatisbh",
@@ -2954,7 +2954,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:05.198Z"
+    "fetchedAt": "2026-02-07T13:01:51.294Z"
   },
   {
     "id": "minerva",
@@ -2971,7 +2971,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:05.198Z"
+    "fetchedAt": "2026-02-07T13:01:51.294Z"
   },
   {
     "id": "@slidex/theme-seriph",
@@ -2993,7 +2993,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:05.198Z"
+    "fetchedAt": "2026-02-07T13:01:51.294Z"
   },
   {
     "id": "oceanic-next",
@@ -3009,7 +3009,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.365Z"
+    "fetchedAt": "2026-02-07T13:02:01.864Z"
   },
   {
     "id": "ppt",
@@ -3026,7 +3026,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.365Z"
+    "fetchedAt": "2026-02-07T13:02:01.864Z"
   },
   {
     "id": "mrtnvh",
@@ -3043,7 +3043,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.365Z"
+    "fetchedAt": "2026-02-07T13:02:01.864Z"
   },
   {
     "id": "yettoapp/yetto",
@@ -3060,7 +3060,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.365Z"
+    "fetchedAt": "2026-02-07T13:02:01.864Z"
   },
   {
     "id": "ovgu",
@@ -3078,7 +3078,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.365Z"
+    "fetchedAt": "2026-02-07T13:02:01.864Z"
   },
   {
     "id": "monomi",
@@ -3095,7 +3095,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.866Z"
+    "fetchedAt": "2026-02-07T13:02:02.365Z"
   },
   {
     "id": "generic",
@@ -3112,7 +3112,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.866Z"
+    "fetchedAt": "2026-02-07T13:02:02.365Z"
   },
   {
     "id": "renuo",
@@ -3143,7 +3143,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:16.866Z"
+    "fetchedAt": "2026-02-07T13:02:02.365Z"
   },
   {
     "id": "denkwerk",
@@ -3160,7 +3160,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:17.546Z"
+    "fetchedAt": "2026-02-07T13:02:03.009Z"
   },
   {
     "id": "@mehlium/husbanken-slidev-theme",
@@ -3182,7 +3182,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:17.546Z"
+    "fetchedAt": "2026-02-07T13:02:03.009Z"
   },
   {
     "id": "kotlin",
@@ -3199,7 +3199,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:32.017Z"
+    "fetchedAt": "2026-02-07T13:02:16.808Z"
   },
   {
     "id": "kintone",
@@ -3222,7 +3222,7 @@
       "kintone"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:32.017Z"
+    "fetchedAt": "2026-02-07T13:02:16.808Z"
   },
   {
     "id": "netlify",
@@ -3239,7 +3239,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:46.337Z"
+    "fetchedAt": "2026-02-07T13:02:30.496Z"
   },
   {
     "id": "joyful",
@@ -3256,7 +3256,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:46.337Z"
+    "fetchedAt": "2026-02-07T13:02:30.496Z"
   },
   {
     "id": "andyjjrt",
@@ -3278,7 +3278,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:56:46.337Z"
+    "fetchedAt": "2026-02-07T13:02:30.496Z"
   },
   {
     "id": "sprinteins",
@@ -3295,7 +3295,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:00.679Z"
+    "fetchedAt": "2026-02-07T13:02:44.175Z"
   },
   {
     "id": "patrickdronk",
@@ -3312,7 +3312,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:00.679Z"
+    "fetchedAt": "2026-02-07T13:02:44.176Z"
   },
   {
     "id": "anny-theme",
@@ -3329,7 +3329,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:00.679Z"
+    "fetchedAt": "2026-02-07T13:02:44.176Z"
   },
   {
     "id": "thelearningdev",
@@ -3351,7 +3351,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:00.679Z"
+    "fetchedAt": "2026-02-07T13:02:44.176Z"
   },
   {
     "id": "optiop-theme",
@@ -3367,7 +3367,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "ox",
@@ -3384,7 +3384,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "shadow",
@@ -3401,7 +3401,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "neat",
@@ -3418,7 +3418,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "bitnate",
@@ -3435,7 +3435,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "orlando",
@@ -3452,7 +3452,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "klef/klefpj",
@@ -3469,7 +3469,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "webhh",
@@ -3486,7 +3486,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "hatch-corporate",
@@ -3514,7 +3514,7 @@
       "components"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:15.095Z"
+    "fetchedAt": "2026-02-07T13:02:58.081Z"
   },
   {
     "id": "jolicode",
@@ -3531,7 +3531,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:32.243Z"
+    "fetchedAt": "2026-02-07T13:03:14.599Z"
   },
   {
     "id": "mono",
@@ -3549,7 +3549,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:32.243Z"
+    "fetchedAt": "2026-02-07T13:03:14.599Z"
   },
   {
     "id": "kolaente-bold",
@@ -3571,7 +3571,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:32.243Z"
+    "fetchedAt": "2026-02-07T13:03:14.599Z"
   },
   {
     "id": "poli-usp",
@@ -3588,7 +3588,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:46.434Z"
+    "fetchedAt": "2026-02-07T13:03:28.438Z"
   },
   {
     "id": "nisl",
@@ -3607,7 +3607,7 @@
       "slidev-theme-NISL"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:46.434Z"
+    "fetchedAt": "2026-02-07T13:03:28.438Z"
   },
   {
     "id": "academic-hehaorui",
@@ -3633,7 +3633,7 @@
       "slidev-theme-academic-hehaorui"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:57:46.434Z"
+    "fetchedAt": "2026-02-07T13:03:28.438Z"
   },
   {
     "id": "fhaachen",
@@ -3655,7 +3655,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:00.767Z"
+    "fetchedAt": "2026-02-07T13:03:42.355Z"
   },
   {
     "id": "jhq",
@@ -3672,7 +3672,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:15.032Z"
+    "fetchedAt": "2026-02-07T13:03:56.130Z"
   },
   {
     "id": "horizon",
@@ -3694,7 +3694,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:15.032Z"
+    "fetchedAt": "2026-02-07T13:03:56.130Z"
   },
   {
     "id": "vuestorefront",
@@ -3719,7 +3719,7 @@
       "slidev-vuestorefront"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:26.251Z"
+    "fetchedAt": "2026-02-07T13:04:06.679Z"
   },
   {
     "id": "bsc",
@@ -3736,7 +3736,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:37.758Z"
+    "fetchedAt": "2026-02-07T13:04:17.360Z"
   },
   {
     "id": "platformatic",
@@ -3753,7 +3753,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:37.758Z"
+    "fetchedAt": "2026-02-07T13:04:17.360Z"
   },
   {
     "id": "penguin--kevin-fabre",
@@ -3776,7 +3776,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:37.758Z"
+    "fetchedAt": "2026-02-07T13:04:17.360Z"
   },
   {
     "id": "itmo",
@@ -3798,7 +3798,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:38.418Z"
+    "fetchedAt": "2026-02-07T13:04:17.984Z"
   },
   {
     "id": "excalifont",
@@ -3820,7 +3820,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:58:52.794Z"
+    "fetchedAt": "2026-02-07T13:04:31.816Z"
   },
   {
     "id": "binlab",
@@ -3842,7 +3842,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:07.188Z"
+    "fetchedAt": "2026-02-07T13:04:45.677Z"
   },
   {
     "id": "trustedai",
@@ -3864,7 +3864,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:21.511Z"
+    "fetchedAt": "2026-02-07T13:04:59.414Z"
   },
   {
     "id": "martinelli/martinelli",
@@ -3886,7 +3886,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:38.628Z"
+    "fetchedAt": "2026-02-07T13:05:16.109Z"
   },
   {
     "id": "tpm",
@@ -3903,7 +3903,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.864Z"
+    "fetchedAt": "2026-02-07T13:05:32.623Z"
   },
   {
     "id": "kage",
@@ -3920,7 +3920,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.623Z"
   },
   {
     "id": "envek",
@@ -3937,7 +3937,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.623Z"
   },
   {
     "id": "damienfern",
@@ -3954,7 +3954,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "alltech",
@@ -3971,7 +3971,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "supsistudent",
@@ -3990,7 +3990,7 @@
       "supsistudent"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "roh",
@@ -4007,7 +4007,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "dyte-vaibhavshn",
@@ -4024,7 +4024,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "polyu",
@@ -4044,7 +4044,7 @@
       "hong kong"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "test",
@@ -4066,7 +4066,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T06:59:55.865Z"
+    "fetchedAt": "2026-02-07T13:05:32.624Z"
   },
   {
     "id": "imatech",
@@ -4091,7 +4091,7 @@
       "slidev-theme-imatech"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:12.051Z"
+    "fetchedAt": "2026-02-07T13:05:47.707Z"
   },
   {
     "id": "vatisv2",
@@ -4108,7 +4108,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:26.354Z"
+    "fetchedAt": "2026-02-07T13:06:01.510Z"
   },
   {
     "id": "klef/klef",
@@ -4125,7 +4125,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:26.354Z"
+    "fetchedAt": "2026-02-07T13:06:01.510Z"
   },
   {
     "id": "@martinelli/theme-slidev",
@@ -4143,7 +4143,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:26.354Z"
+    "fetchedAt": "2026-02-07T13:06:01.510Z"
   },
   {
     "id": "ynn",
@@ -4165,7 +4165,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:26.354Z"
+    "fetchedAt": "2026-02-07T13:06:01.510Z"
   },
   {
     "id": "majin",
@@ -4196,7 +4196,7 @@
       "cards"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:37.534Z"
+    "fetchedAt": "2026-02-07T13:06:12.227Z"
   },
   {
     "id": "adventiel",
@@ -4213,7 +4213,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:52.012Z"
+    "fetchedAt": "2026-02-07T13:06:26.129Z"
   },
   {
     "id": "dyte",
@@ -4235,7 +4235,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:00:52.012Z"
+    "fetchedAt": "2026-02-07T13:06:26.129Z"
   },
   {
     "id": "elysia",
@@ -4253,7 +4253,7 @@
       "elysia"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:09.507Z"
+    "fetchedAt": "2026-02-07T13:06:43.218Z"
   },
   {
     "id": "mazluc",
@@ -4270,7 +4270,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:09.507Z"
+    "fetchedAt": "2026-02-07T13:06:43.219Z"
   },
   {
     "id": "aliyun",
@@ -4287,7 +4287,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:09.507Z"
+    "fetchedAt": "2026-02-07T13:06:43.219Z"
   },
   {
     "id": "neon",
@@ -4315,7 +4315,7 @@
       "vilaboim"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:09.507Z"
+    "fetchedAt": "2026-02-07T13:06:43.219Z"
   },
   {
     "id": "valtech",
@@ -4333,7 +4333,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:10.286Z"
+    "fetchedAt": "2026-02-07T13:06:43.869Z"
   },
   {
     "id": "queenslab",
@@ -4350,7 +4350,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:10.286Z"
+    "fetchedAt": "2026-02-07T13:06:43.869Z"
   },
   {
     "id": "anova-basic",
@@ -4372,7 +4372,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:10.286Z"
+    "fetchedAt": "2026-02-07T13:06:43.869Z"
   },
   {
     "id": "ustc",
@@ -4389,7 +4389,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:27.538Z"
+    "fetchedAt": "2026-02-07T13:07:00.455Z"
   },
   {
     "id": "hexo",
@@ -4406,7 +4406,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:27.538Z"
+    "fetchedAt": "2026-02-07T13:07:00.455Z"
   },
   {
     "id": "excelsea",
@@ -4423,7 +4423,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:27.538Z"
+    "fetchedAt": "2026-02-07T13:07:00.455Z"
   },
   {
     "id": "cxphoenix/isip.hs",
@@ -4446,7 +4446,7 @@
       "isip-hs"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:27.538Z"
+    "fetchedAt": "2026-02-07T13:07:00.455Z"
   },
   {
     "id": "guara",
@@ -4462,7 +4462,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:41.947Z"
+    "fetchedAt": "2026-02-07T13:07:14.264Z"
   },
   {
     "id": "project-documentation",
@@ -4479,7 +4479,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:41.947Z"
+    "fetchedAt": "2026-02-07T13:07:14.264Z"
   },
   {
     "id": "sailing-innocent/nju-thesis",
@@ -4496,7 +4496,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:41.947Z"
+    "fetchedAt": "2026-02-07T13:07:14.264Z"
   },
   {
     "id": "showy",
@@ -4518,7 +4518,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:41.947Z"
+    "fetchedAt": "2026-02-07T13:07:14.264Z"
   },
   {
     "id": "2024-wadella",
@@ -4535,7 +4535,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:59.078Z"
+    "fetchedAt": "2026-02-07T13:07:30.847Z"
   },
   {
     "id": "papershare",
@@ -4552,7 +4552,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:59.078Z"
+    "fetchedAt": "2026-02-07T13:07:30.847Z"
   },
   {
     "id": "101-rs",
@@ -4571,7 +4571,7 @@
       "Rust 101"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:59.078Z"
+    "fetchedAt": "2026-02-07T13:07:30.847Z"
   },
   {
     "id": "vuetiful-unocss",
@@ -4600,7 +4600,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:59.078Z"
+    "fetchedAt": "2026-02-07T13:07:30.847Z"
   },
   {
     "id": "nahco314",
@@ -4617,7 +4617,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:59.765Z"
+    "fetchedAt": "2026-02-07T13:07:31.489Z"
   },
   {
     "id": "poke",
@@ -4639,7 +4639,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:01:59.765Z"
+    "fetchedAt": "2026-02-07T13:07:31.489Z"
   },
   {
     "id": "mtximu",
@@ -4656,7 +4656,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:14.207Z"
+    "fetchedAt": "2026-02-07T13:07:45.306Z"
   },
   {
     "id": "divriots",
@@ -4673,7 +4673,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:14.207Z"
+    "fetchedAt": "2026-02-07T13:07:45.306Z"
   },
   {
     "id": "triumph",
@@ -4690,7 +4690,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:14.207Z"
+    "fetchedAt": "2026-02-07T13:07:45.306Z"
   },
   {
     "id": "stordahl",
@@ -4707,7 +4707,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:14.207Z"
+    "fetchedAt": "2026-02-07T13:07:45.306Z"
   },
   {
     "id": "hpenguin",
@@ -4730,7 +4730,7 @@
       "slidev-penguin"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:14.207Z"
+    "fetchedAt": "2026-02-07T13:07:45.306Z"
   },
   {
     "id": "cuc",
@@ -4747,7 +4747,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.039Z"
+    "fetchedAt": "2026-02-07T13:07:46.017Z"
   },
   {
     "id": "secsi",
@@ -4764,7 +4764,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.039Z"
+    "fetchedAt": "2026-02-07T13:07:46.017Z"
   },
   {
     "id": "bolt",
@@ -4781,7 +4781,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.039Z"
+    "fetchedAt": "2026-02-07T13:07:46.017Z"
   },
   {
     "id": "vuetiful-uno",
@@ -4810,7 +4810,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.039Z"
+    "fetchedAt": "2026-02-07T13:07:46.017Z"
   },
   {
     "id": "friendly",
@@ -4827,7 +4827,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.676Z"
+    "fetchedAt": "2026-02-07T13:07:46.619Z"
   },
   {
     "id": "myownprussianblue",
@@ -4844,7 +4844,7 @@
       "slidev"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.676Z"
+    "fetchedAt": "2026-02-07T13:07:46.619Z"
   },
   {
     "id": "vibe",
@@ -4866,6 +4866,6 @@
       "presentation"
     ],
     "isOfficial": false,
-    "fetchedAt": "2026-02-07T07:02:15.676Z"
+    "fetchedAt": "2026-02-07T13:07:46.619Z"
   }
 ]
